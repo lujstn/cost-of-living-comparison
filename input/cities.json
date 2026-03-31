@@ -1,0 +1,257 @@
+[
+  {
+    "country": "Argentina",
+    "cities": ["Buenos Aires"]
+  },
+  {
+    "country": "Australia",
+    "cities": ["Brisbane", "Melbourne", "Sydney"]
+  },
+  {
+    "country": "Austria",
+    "cities": ["Vienna"]
+  },
+  {
+    "country": "Belgium",
+    "cities": ["Brussels"]
+  },
+  {
+    "country": "Brazil",
+    "cities": ["Rio de Janeiro", "São Paulo"]
+  },
+  {
+    "country": "Canada",
+    "cities": ["Montreal", "Toronto", "Vancouver", "Waterloo"]
+  },
+  {
+    "country": "Chile",
+    "cities": ["Santiago"]
+  },
+  {
+    "country": "China",
+    "cities": [
+      "Beijing",
+      "Chengdu",
+      "Guangzhou",
+      "Hangzhou",
+      "Shanghai",
+      "Shenzhen"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "cities": ["Bogotá"]
+  },
+  {
+    "country": "Czech Republic",
+    "cities": ["Prague"]
+  },
+  {
+    "country": "Denmark",
+    "cities": ["Copenhagen"]
+  },
+  {
+    "country": "Egypt",
+    "cities": ["Cairo"]
+  },
+  {
+    "country": "Estonia",
+    "cities": ["Tallinn"]
+  },
+  {
+    "country": "Finland",
+    "cities": ["Helsinki"]
+  },
+  {
+    "country": "France",
+    "cities": ["Paris"]
+  },
+  {
+    "country": "Germany",
+    "cities": ["Berlin", "Frankfurt", "Hamburg", "Munich"]
+  },
+  {
+    "country": "Greece",
+    "cities": ["Athens"]
+  },
+  {
+    "country": "Hong Kong",
+    "cities": ["Hong Kong"]
+  },
+  {
+    "country": "Hungary",
+    "cities": ["Budapest"]
+  },
+  {
+    "country": "India",
+    "cities": ["Bangalore", "Hyderabad", "Mumbai", "New Delhi"]
+  },
+  {
+    "country": "Indonesia",
+    "cities": ["Jakarta"]
+  },
+  {
+    "country": "Ireland",
+    "cities": ["Dublin"]
+  },
+  {
+    "country": "Israel",
+    "cities": ["Tel Aviv"]
+  },
+  {
+    "country": "Italy",
+    "cities": ["Milan", "Rome"]
+  },
+  {
+    "country": "Japan",
+    "cities": ["Osaka", "Tokyo"]
+  },
+  {
+    "country": "Kazakhstan",
+    "cities": ["Almaty"]
+  },
+  {
+    "country": "Kenya",
+    "cities": ["Nairobi"]
+  },
+  {
+    "country": "Luxembourg",
+    "cities": ["Luxembourg"]
+  },
+  {
+    "country": "Malaysia",
+    "cities": ["Kuala Lumpur"]
+  },
+  {
+    "country": "Mexico",
+    "cities": ["Mexico City"]
+  },
+  {
+    "country": "Morocco",
+    "cities": ["Casablanca"]
+  },
+  {
+    "country": "Netherlands",
+    "cities": ["Amsterdam"]
+  },
+  {
+    "country": "New Zealand",
+    "cities": ["Auckland"]
+  },
+  {
+    "country": "Nigeria",
+    "cities": ["Lagos"]
+  },
+  {
+    "country": "Norway",
+    "cities": ["Oslo"]
+  },
+  {
+    "country": "Pakistan",
+    "cities": ["Karachi"]
+  },
+  {
+    "country": "Peru",
+    "cities": ["Lima"]
+  },
+  {
+    "country": "Philippines",
+    "cities": ["Manila"]
+  },
+  {
+    "country": "Poland",
+    "cities": ["Warsaw"]
+  },
+  {
+    "country": "Portugal",
+    "cities": ["Lisbon"]
+  },
+  {
+    "country": "Qatar",
+    "cities": ["Doha"]
+  },
+  {
+    "country": "Romania",
+    "cities": ["Bucharest"]
+  },
+  {
+    "country": "Russia",
+    "cities": ["Moscow", "St Petersburg"]
+  },
+  {
+    "country": "Saudi Arabia",
+    "cities": ["Riyadh"]
+  },
+  {
+    "country": "Singapore",
+    "cities": ["Singapore"]
+  },
+  {
+    "country": "South Africa",
+    "cities": ["Cape Town", "Johannesburg"]
+  },
+  {
+    "country": "South Korea",
+    "cities": ["Seoul"]
+  },
+  {
+    "country": "Spain",
+    "cities": ["Barcelona", "Madrid"]
+  },
+  {
+    "country": "Sweden",
+    "cities": ["Stockholm"]
+  },
+  {
+    "country": "Switzerland",
+    "cities": ["Geneva", "Zurich"]
+  },
+  {
+    "country": "Taiwan",
+    "cities": ["Taipei"]
+  },
+  {
+    "country": "Thailand",
+    "cities": ["Bangkok"]
+  },
+  {
+    "country": "Turkey",
+    "cities": ["Istanbul"]
+  },
+  {
+    "country": "United Arab Emirates",
+    "cities": ["Abu Dhabi", "Dubai"]
+  },
+  {
+    "country": "United Kingdom",
+    "cities": ["Cambridge", "London", "Manchester", "Oxford"]
+  },
+  {
+    "country": "Ukraine",
+    "cities": ["Kyiv"]
+  },
+  {
+    "country": "United States",
+    "cities": [
+      "Atlanta",
+      "Austin",
+      "Boston",
+      "Chicago",
+      "Dallas",
+      "Denver",
+      "Houston",
+      "Los Angeles",
+      "Miami",
+      "New York",
+      "Philadelphia",
+      "San Francisco",
+      "San Jose, CA",
+      "Seattle",
+      "Washington, DC"
+    ]
+  },
+  {
+    "country": "Vietnam",
+    "cities": ["Hanoi", "Ho Chi Minh City"]
+  }
+]

@@ -1,0 +1,36 @@
+Context: I am a 27-year-old, young, fun L4 Software Engineer working for Google from a good family background in Kent. I'm now looking to live in %CITY% and want to get a very rough idea of monthly rental price. I live with a friend from a similar class/background so we'll need a nicely finished 2 bed / 1.5 bath place in a good area. Furnished or not depends whether that's the norm (go whatever is most common!). Debating between 1) paying more to live in a very central neighbourhood; 2) living in a more trendy or creative neighbourhood; 3) living in a slightly further out good-value but still trendy neighbourhood.
+
+Task: I'd like you to provide the typical range of rental values for each of these neighbourhoods. Ignore "insanely good deal" and "luxury apartment" style results, we want a range we can pretty reasonably expect. I'd also like you to provide a `weighting` value of how likely I am to chose each tier. Do not search the web, give me an educated guess based on your training data. Normalise outputs to local currency over a monthly period, even if that is not the norm. All three `weighting` values must add up to `1`. The rental price should always be for the full property (do not calculate any rental share/split). After this, I'd like you to estimate my representative annual gross salary in local currency (employee only, no special deductions). Then, based on the knowledge in your training data, work out the net version of that salary by roughly estimating my tax burder (standard tax treatment, ignore my nationality for now).
+
+
+JSON Output Schema:
+```
+{
+  "tier_1": {
+    "min": number,
+    "max": number,
+    "currency": ISOCurrencyCode,
+    "period": "monthly"
+    "weighting": number
+  },
+  "tier_2": {
+    "min": number,
+    "max": number,
+    "currency": ISOCurrencyCode,
+    "period": "monthly"
+    "weighting": number
+  },
+  "tier_3": {
+    "min": number,
+    "max": number,
+    "currency": ISOCurrencyCode,
+    "period": "monthly"
+    "weighting": number
+  },
+  "salary": {
+    "expected_annual_gross_salary": number,
+    "expected_annual_net_salary": number,
+    "currency": ISOCurrencyCode
+  }
+}
+```

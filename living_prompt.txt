@@ -1,0 +1,75 @@
+Context: I am a 27-year-old, young, fun L4 Software Engineer working for Google from a good family background in Kent. I'm now looking to live in %CITY% and want to get a very rough idea of some of my living costs. Specifically, I'd like to know the cost of:
+
+1. An oat latte from a good speciality coffee shop / roastery
+2. A benchmark dinner for one at a nice upper-mid-range restaurant
+3. The cost of Lime bike equivalent for 10 minutes during the day
+4. The cost of a Metro ride equivalent for 20 minutes during the day
+5. The cost of a private-hire taxi (Uber equivalent) for 30 minutes at around 10pm
+6. The cost of an average premium fast food meal through a delivery service (Uber Eats equivalent)
+7. The cost of a Spotify Premium subscription equivalent [one-off]
+8. The cost of a middle-upper tier gym membership equivalent [one-off]
+
+
+Task: I'd like you to provide the typical range of values for each of these, with a range I can pretty reasonably expect in this city. I'd also like you to imagine I did this repeatedly for a month, and give me a `weighting` value between 0 (cheapest) and 1 (most expensive) of how where the overall/average monthly order volume will likely fall on this scale for someone of my profile here, excluding any items marked as one-offs. Normalise outputs to single instances (i.e. one meal) in the local currency. If the item is not a typically expected item in this city (e.g. "oat latte" is not normal), you may substitute it with a similar item that serves a similar purpose (e.g. "Irani chai"). If doing this, you MUST return the "name_of_equivalent" field containing only the name of the item you have substituted - do NOT provide extra detail.
+
+JSON Output Schema:
+```
+{
+  "oat_latte": {
+    "min": number,
+    "max": number,
+    "currency": ISOCurrencyCode,
+    "weighting": number,
+    "name_of_equivalent": Optional<string>
+  },
+  "nice_dinner": {
+    "min": number,
+    "max": number,
+    "currency": ISOCurrencyCode,
+    "weighting": number,
+    "name_of_equivalent": Optional<string>
+  },
+  "lime_bike": {
+    "min": number,
+    "max": number,
+    "currency": ISOCurrencyCode,
+    "weighting": number,
+    "name_of_equivalent": Optional<string>
+  },
+  "metro_ride": {
+    "min": number,
+    "max": number,
+    "currency": ISOCurrencyCode,
+    "weighting": number,
+    "name_of_equivalent": Optional<string>
+  },
+  "phv_ride": {
+    "min": number,
+    "max": number,
+    "currency": ISOCurrencyCode,
+    "weighting": number,
+    "name_of_equivalent": Optional<string>
+  },
+  "food_delivery": {
+    "min": number,
+    "max": number,
+    "currency": ISOCurrencyCode,
+    "weighting": number,
+    "name_of_equivalent": Optional<string>
+  },
+  "music_subscription": {
+    "min": number,
+    "max": number,
+    "currency": ISOCurrencyCode,
+    "weighting": number,
+    "name_of_equivalent": Optional<string>
+  },
+  "gym": {
+    "min": number,
+    "max": number,
+    "currency": ISOCurrencyCode,
+    "weighting": number,
+    "name_of_equivalent": Optional<string>
+  }
+}
+```
