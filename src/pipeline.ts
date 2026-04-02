@@ -13,6 +13,7 @@ import type {
   LivingItemKey,
 } from "./types.js";
 import { LIVING_ITEMS } from "./types.js";
+import { normaliseSubscriptions } from "./normalise-subscription.js";
 
 // ─── Helpers ────────────────────────────────────────────────────────────────
 
@@ -654,6 +655,10 @@ YOU MUST ENSURE:
   console.log(
     `\nDone! ${finalResults.length} cities written to output/final/cost_of_living.json`,
   );
+
+  // Step 11: Normalise music subscription costs with real Spotify pricing
+  console.log("\nNormalising music subscription costs...");
+  await normaliseSubscriptions();
 
   // Clean up batch ID file on full success
   if (errors.length === 0 && finalResults.length === flatCities.length) {

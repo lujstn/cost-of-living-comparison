@@ -1,30 +1,9 @@
 import * as fs from "fs";
 import * as path from "path";
 import { fileURLToPath } from "url";
+import type { FinalCityResult } from "./types.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-
-interface CostItem {
-  cost: number;
-  currency: string;
-  name_of_equivalent?: string;
-}
-
-interface CityResult {
-  country: string;
-  city: string;
-  oat_latte: CostItem;
-  nice_dinner: CostItem;
-  lime_bike: CostItem;
-  metro_ride: CostItem;
-  phv_ride: CostItem;
-  food_delivery: CostItem;
-  music_subscription: CostItem;
-  gym: CostItem;
-  monthly_rent_share: { cost: number; currency: string };
-  effective_tax_rate_percentage: number;
-  cost_of_living_city_index: number;
-}
 
 interface SpotifyEntry {
   country: string;
@@ -44,7 +23,10 @@ function round2(n: number): number {
   return Math.round(n * 100) / 100;
 }
 
-function recalcIndex(city: CityResult, musicCostForIndex?: number): number {
+function recalcIndex(
+  city: FinalCityResult,
+  musicCostForIndex?: number,
+): number {
   const musicCost = musicCostForIndex ?? city.music_subscription.cost;
 
   const tripGroup =
@@ -75,12 +57,14 @@ async function fetchFxRate(base: string, quote: string): Promise<number> {
   return data[0].rate;
 }
 
-async function main() {
+export async function normaliseSubscriptions() {
   const rootDir = path.resolve(__dirname, "..");
   const finalPath = path.join(rootDir, "output/final/cost_of_living.json");
   const spotifyPath = path.join(rootDir, "input/spotify-prices.json");
 
-  const cities: CityResult[] = JSON.parse(fs.readFileSync(finalPath, "utf-8"));
+  const cities: FinalCityResult[] = JSON.parse(
+    fs.readFileSync(finalPath, "utf-8"),
+  );
   const spotifyRaw: SpotifyEntry[] = JSON.parse(
     fs.readFileSync(spotifyPath, "utf-8"),
   );
@@ -95,7 +79,7 @@ async function main() {
   }
 
   // Group cities by country
-  const byCountry = new Map<string, CityResult[]>();
+  const byCountry = new Map<string, FinalCityResult[]>();
   for (const city of cities) {
     const group = byCountry.get(city.country) || [];
     group.push(city);
@@ -208,8 +192,3 @@ async function main() {
   );
   console.log(`Written to ${finalPath}`);
 }
-
-main().catch((err) => {
-  console.error("Failed:", err);
-  process.exit(1);
-});
