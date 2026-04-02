@@ -1,0 +1,922 @@
+[
+  {
+    "country": "Nigeria",
+    "price": "1,600",
+    "currency_code": "NGN"
+  },
+  {
+    "country": "Pakistan",
+    "price": "379",
+    "currency_code": "PKR"
+  },
+  {
+    "country": "Egypt",
+    "price": "79",
+    "currency_code": "EGP"
+  },
+  {
+    "country": "Bangladesh",
+    "price": "219",
+    "currency_code": "BDT"
+  },
+  {
+    "country": "India",
+    "price": "199",
+    "currency_code": "INR"
+  },
+  {
+    "country": "Ghana",
+    "price": "24",
+    "currency_code": "GHS"
+  },
+  {
+    "country": "Turkey",
+    "price": "99",
+    "currency_code": "TRY"
+  },
+  {
+    "country": "Argentina",
+    "price": "3,299",
+    "currency_code": "ARS"
+  },
+  {
+    "country": "Sri Lanka",
+    "price": "749",
+    "currency_code": "LKR"
+  },
+  {
+    "country": "Vietnam",
+    "price": "65,000",
+    "currency_code": "VND"
+  },
+  {
+    "country": "Philippines",
+    "price": "169",
+    "currency_code": "PHP"
+  },
+  {
+    "country": "Tanzania",
+    "price": "7,500",
+    "currency_code": "TZS"
+  },
+  {
+    "country": "Uganda",
+    "price": "11,000",
+    "currency_code": "UGX"
+  },
+  {
+    "country": "Kenya",
+    "price": "419",
+    "currency_code": "KES"
+  },
+  {
+    "country": "Angola",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Burkina Faso",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Burundi",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Benin",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Bhutan",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Botswana",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Republic of the Congo",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "C\u00f4te d'Ivoire",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Cameroon",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Cape Verde",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Djibouti",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Ethiopia",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Gabon",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Gambia",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Guinea",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Haiti",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Cambodia",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Comoros",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Laos",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Liberia",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Lesotho",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Libya",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Madagascar",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Mali",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Mauritania",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Mauritius",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Malawi",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Mozambique",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Namibia",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Niger",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Nepal",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Rwanda",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Sierra Leone",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Senegal",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Eswatini",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Chad",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Togo",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Zambia",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Zimbabwe",
+    "price": "3.29",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Bulgaria",
+    "price": "5.62",
+    "currency_code": "BGN"
+  },
+  {
+    "country": "Iraq",
+    "price": "4,900",
+    "currency_code": "IQD"
+  },
+  {
+    "country": "Tunisia",
+    "price": "12.5",
+    "currency_code": "TND"
+  },
+  {
+    "country": "Malaysia",
+    "price": "17.5",
+    "currency_code": "MYR"
+  },
+  {
+    "country": "Brazil",
+    "price": "23.9",
+    "currency_code": "BRL"
+  },
+  {
+    "country": "Thailand",
+    "price": "149",
+    "currency_code": "THB"
+  },
+  {
+    "country": "Indonesia",
+    "price": "79,900",
+    "currency_code": "IDR"
+  },
+  {
+    "country": "Morocco",
+    "price": "45",
+    "currency_code": "MAD"
+  },
+  {
+    "country": "Algeria",
+    "price": "4.99",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Kazakhstan",
+    "price": "4.99",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Palestine",
+    "price": "4.99",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Ukraine",
+    "price": "4.99",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Colombia",
+    "price": "18,500",
+    "currency_code": "COP"
+  },
+  {
+    "country": "Taiwan",
+    "price": "168",
+    "currency_code": "TWD"
+  },
+  {
+    "country": "Chile",
+    "price": "4,950",
+    "currency_code": "CLP"
+  },
+  {
+    "country": "Armenia",
+    "price": "5.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Azerbaijan",
+    "price": "5.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Bahrain",
+    "price": "5.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Belarus",
+    "price": "5.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Fiji",
+    "price": "5.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Micronesia",
+    "price": "5.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Georgia",
+    "price": "5.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Jordan",
+    "price": "5.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "price": "5.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Kuwait",
+    "price": "5.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Lebanon",
+    "price": "5.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Moldova",
+    "price": "5.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Mongolia",
+    "price": "5.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Maldives",
+    "price": "5.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Oman",
+    "price": "5.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Papua New Guinea",
+    "price": "5.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Solomon Islands",
+    "price": "5.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Seychelles",
+    "price": "5.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Tajikistan",
+    "price": "5.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Timor-Leste",
+    "price": "5.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Tonga",
+    "price": "5.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Uzbekistan",
+    "price": "5.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Vanuatu",
+    "price": "5.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Samoa",
+    "price": "5.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "South Africa",
+    "price": "94.99",
+    "currency_code": "ZAR"
+  },
+  {
+    "country": "Romania",
+    "price": "26",
+    "currency_code": "RON"
+  },
+  {
+    "country": "Paraguay",
+    "price": "5.99",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Peru",
+    "price": "20.9",
+    "currency_code": "PEN"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "price": "6.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Barbados",
+    "price": "6.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Bolivia",
+    "price": "6.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Bahamas",
+    "price": "6.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Belize",
+    "price": "6.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Cura\u00e7ao",
+    "price": "6.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Dominica",
+    "price": "6.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Dominican Republic",
+    "price": "6.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Grenada",
+    "price": "6.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Guatemala",
+    "price": "6.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Guyana",
+    "price": "6.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Honduras",
+    "price": "6.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Jamaica",
+    "price": "6.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "price": "6.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Saint Lucia",
+    "price": "6.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Nicaragua",
+    "price": "6.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Suriname",
+    "price": "6.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "El Salvador",
+    "price": "6.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "price": "6.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "price": "6.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Venezuela",
+    "price": "6.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Hungary",
+    "price": "2,190",
+    "currency_code": "HUF"
+  },
+  {
+    "country": "Japan",
+    "price": "1,080",
+    "currency_code": "JPY"
+  },
+  {
+    "country": "Albania",
+    "price": "5.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "price": "5.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "Montenegro",
+    "price": "5.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "North Macedonia",
+    "price": "5.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "Serbia",
+    "price": "5.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "Kosovo",
+    "price": "5.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "Costa Rica",
+    "price": "6.99",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Ecuador",
+    "price": "6.99",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Panama",
+    "price": "6.99",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Poland",
+    "price": "26.99",
+    "currency_code": "PLN"
+  },
+  {
+    "country": "South Korea",
+    "price": "10,900",
+    "currency_code": "KRW"
+  },
+  {
+    "country": "Brunei",
+    "price": "7.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Macau",
+    "price": "7.49",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Israel",
+    "price": "23.9",
+    "currency_code": "ILS"
+  },
+  {
+    "country": "Mexico",
+    "price": "139",
+    "currency_code": "MXN"
+  },
+  {
+    "country": "Croatia",
+    "price": "6.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "Slovenia",
+    "price": "6.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "Slovakia",
+    "price": "6.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "Saudi Arabia",
+    "price": "31.99",
+    "currency_code": "SAR"
+  },
+  {
+    "country": "United Arab Emirates",
+    "price": "31.99",
+    "currency_code": "AED"
+  },
+  {
+    "country": "Czechia",
+    "price": "185",
+    "currency_code": "CZK"
+  },
+  {
+    "country": "Uruguay",
+    "price": "8.99",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Kiribati",
+    "price": "12.99",
+    "currency_code": "AUD"
+  },
+  {
+    "country": "Nauru",
+    "price": "12.99",
+    "currency_code": "AUD"
+  },
+  {
+    "country": "Tuvalu",
+    "price": "12.99",
+    "currency_code": "AUD"
+  },
+  {
+    "country": "Canada",
+    "price": "12.69",
+    "currency_code": "CAD"
+  },
+  {
+    "country": "Singapore",
+    "price": "11.98",
+    "currency_code": "SGD"
+  },
+  {
+    "country": "Hong Kong",
+    "price": "78",
+    "currency_code": "HKD"
+  },
+  {
+    "country": "Cyprus",
+    "price": "8.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "Greece",
+    "price": "8.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "Lithuania",
+    "price": "8.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "Malta",
+    "price": "8.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "Portugal",
+    "price": "8.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "Marshall Islands",
+    "price": "10.99",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Palau",
+    "price": "10.99",
+    "currency_code": "USD"
+  },
+  {
+    "country": "New Zealand",
+    "price": "18.99",
+    "currency_code": "NZD"
+  },
+  {
+    "country": "Australia",
+    "price": "15.99",
+    "currency_code": "AUD"
+  },
+  {
+    "country": "Monaco",
+    "price": "10.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "United States",
+    "price": "12.99",
+    "currency_code": "USD"
+  },
+  {
+    "country": "Andorra",
+    "price": "11.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "Belgium",
+    "price": "11.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "Estonia",
+    "price": "11.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "Spain",
+    "price": "11.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "Ireland",
+    "price": "11.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "Italy",
+    "price": "11.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "Latvia",
+    "price": "11.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "San Marino",
+    "price": "11.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "Sweden",
+    "price": "129",
+    "currency_code": "SEK"
+  },
+  {
+    "country": "France",
+    "price": "12.14",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "Norway",
+    "price": "139",
+    "currency_code": "NOK"
+  },
+  {
+    "country": "Austria",
+    "price": "12.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "Germany",
+    "price": "12.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "Finland",
+    "price": "12.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "Iceland",
+    "price": "12.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "Luxembourg",
+    "price": "12.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "Netherlands",
+    "price": "12.99",
+    "currency_code": "EUR"
+  },
+  {
+    "country": "United Kingdom",
+    "price": "12.99",
+    "currency_code": "GBP"
+  },
+  {
+    "country": "Switzerland",
+    "price": "13.95",
+    "currency_code": "CHF"
+  },
+  {
+    "country": "Denmark",
+    "price": "119",
+    "currency_code": "DKK"
+  },
+  {
+    "country": "Liechtenstein",
+    "price": "15.95",
+    "currency_code": "CHF"
+  },
+  {
+    "country": "Qatar",
+    "price": "21.99",
+    "currency_code": "USD"
+  }
+]

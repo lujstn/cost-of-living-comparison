@@ -30,7 +30,7 @@
       "name_of_equivalent": "PedidosYa"
     },
     "music_subscription": {
-      "cost": 5000,
+      "cost": 3299,
       "currency": "ARS"
     },
     "gym": {
@@ -42,7 +42,7 @@
       "currency": "ARS"
     },
     "effective_tax_rate_percentage": 41.27,
-    "cost_of_living_city_index": 272346.41
+    "cost_of_living_city_index": 272312.39
   },
   {
     "country": "Australia",
@@ -74,7 +74,7 @@
       "currency": "AUD"
     },
     "music_subscription": {
-      "cost": 13.99,
+      "cost": 15.99,
       "currency": "AUD"
     },
     "gym": {
@@ -86,7 +86,7 @@
       "currency": "AUD"
     },
     "effective_tax_rate_percentage": 33.73,
-    "cost_of_living_city_index": 865.1
+    "cost_of_living_city_index": 865.14
   },
   {
     "country": "Australia",
@@ -117,7 +117,7 @@
       "currency": "AUD"
     },
     "music_subscription": {
-      "cost": 13.74,
+      "cost": 15.99,
       "currency": "AUD"
     },
     "gym": {
@@ -129,7 +129,7 @@
       "currency": "AUD"
     },
     "effective_tax_rate_percentage": 32.28,
-    "cost_of_living_city_index": 782.03
+    "cost_of_living_city_index": 782.08
   },
   {
     "country": "Australia",
@@ -159,7 +159,7 @@
       "currency": "AUD"
     },
     "music_subscription": {
-      "cost": 13.99,
+      "cost": 15.99,
       "currency": "AUD"
     },
     "gym": {
@@ -171,7 +171,7 @@
       "currency": "AUD"
     },
     "effective_tax_rate_percentage": 32.89,
-    "cost_of_living_city_index": 1074.04
+    "cost_of_living_city_index": 1074.08
   },
   {
     "country": "Austria",
@@ -202,7 +202,7 @@
       "currency": "EUR"
     },
     "music_subscription": {
-      "cost": 10.99,
+      "cost": 12.99,
       "currency": "EUR"
     },
     "gym": {
@@ -214,7 +214,7 @@
       "currency": "EUR"
     },
     "effective_tax_rate_percentage": 37.65,
-    "cost_of_living_city_index": 426.92
+    "cost_of_living_city_index": 426.96
   },
   {
     "country": "Belgium",
@@ -246,7 +246,7 @@
       "currency": "EUR"
     },
     "music_subscription": {
-      "cost": 11.49,
+      "cost": 11.99,
       "currency": "EUR"
     },
     "gym": {
@@ -258,7 +258,7 @@
       "currency": "EUR"
     },
     "effective_tax_rate_percentage": 49.44,
-    "cost_of_living_city_index": 410.66
+    "cost_of_living_city_index": 410.67
   },
   {
     "country": "Brazil",
@@ -290,7 +290,7 @@
       "name_of_equivalent": "iFood"
     },
     "music_subscription": {
-      "cost": 23.4,
+      "cost": 23.9,
       "currency": "BRL"
     },
     "gym": {
@@ -302,7 +302,7 @@
       "currency": "BRL"
     },
     "effective_tax_rate_percentage": 26.67,
-    "cost_of_living_city_index": 1507.13
+    "cost_of_living_city_index": 1507.14
   },
   {
     "country": "Brazil",
@@ -334,7 +334,7 @@
       "name_of_equivalent": "iFood"
     },
     "music_subscription": {
-      "cost": 21.7,
+      "cost": 23.9,
       "currency": "BRL"
     },
     "gym": {
@@ -346,7 +346,7 @@
       "currency": "BRL"
     },
     "effective_tax_rate_percentage": 26.67,
-    "cost_of_living_city_index": 1510.41
+    "cost_of_living_city_index": 1510.46
   },
   {
     "country": "Canada",
@@ -378,7 +378,7 @@
       "currency": "CAD"
     },
     "music_subscription": {
-      "cost": 11.84,
+      "cost": 12.69,
       "currency": "CAD"
     },
     "gym": {
@@ -390,7 +390,7 @@
       "currency": "CAD"
     },
     "effective_tax_rate_percentage": 38.97,
-    "cost_of_living_city_index": 684.71
+    "cost_of_living_city_index": 684.72
   },
   {
     "country": "Canada",
@@ -422,7 +422,7 @@
       "currency": "CAD"
     },
     "music_subscription": {
-      "cost": 11.69,
+      "cost": 12.69,
       "currency": "CAD"
     },
     "gym": {
@@ -434,7 +434,7 @@
       "currency": "CAD"
     },
     "effective_tax_rate_percentage": 36,
-    "cost_of_living_city_index": 896.71
+    "cost_of_living_city_index": 896.73
   },
   {
     "country": "Canada",
@@ -465,7 +465,7 @@
       "currency": "CAD"
     },
     "music_subscription": {
-      "cost": 11.99,
+      "cost": 12.69,
       "currency": "CAD"
     },
     "gym": {
@@ -477,7 +477,7 @@
       "currency": "CAD"
     },
     "effective_tax_rate_percentage": 33.16,
-    "cost_of_living_city_index": 990.36
+    "cost_of_living_city_index": 990.38
   },
   {
     "country": "Canada",
@@ -509,7 +509,7 @@
       "currency": "CAD"
     },
     "music_subscription": {
-      "cost": 11.99,
+      "cost": 12.69,
       "currency": "CAD"
     },
     "gym": {
@@ -521,7 +521,7 @@
       "currency": "CAD"
     },
     "effective_tax_rate_percentage": 36.5,
-    "cost_of_living_city_index": 728.07
+    "cost_of_living_city_index": 728.09
   },
   {
     "country": "Chile",
@@ -553,7 +553,7 @@
       "name_of_equivalent": "Rappi"
     },
     "music_subscription": {
-      "cost": 4190,
+      "cost": 4950,
       "currency": "CLP"
     },
     "gym": {
@@ -565,7 +565,7 @@
       "currency": "CLP"
     },
     "effective_tax_rate_percentage": 20,
-    "cost_of_living_city_index": 226766.28
+    "cost_of_living_city_index": 226781.48
   },
   {
     "country": "China",
@@ -598,7 +598,7 @@
       "name_of_equivalent": "Meituan"
     },
     "music_subscription": {
-      "cost": 24,
+      "cost": 16,
       "currency": "CNY",
       "name_of_equivalent": "NetEase Cloud Music"
     },
@@ -611,7 +611,7 @@
       "currency": "CNY"
     },
     "effective_tax_rate_percentage": 28.55,
-    "cost_of_living_city_index": 3336.13
+    "cost_of_living_city_index": 3335.97
   },
   {
     "country": "China",
@@ -644,7 +644,7 @@
       "name_of_equivalent": "Meituan Waimai"
     },
     "music_subscription": {
-      "cost": 15.9,
+      "cost": 16,
       "currency": "CNY",
       "name_of_equivalent": "QQ Music"
     },
@@ -690,7 +690,7 @@
       "name_of_equivalent": "Meituan"
     },
     "music_subscription": {
-      "cost": 16.75,
+      "cost": 16,
       "currency": "CNY",
       "name_of_equivalent": "NetEase Cloud Music"
     },
@@ -703,7 +703,7 @@
       "currency": "CNY"
     },
     "effective_tax_rate_percentage": 26.17,
-    "cost_of_living_city_index": 1957.88
+    "cost_of_living_city_index": 1957.87
   },
   {
     "country": "China",
@@ -736,7 +736,7 @@
       "name_of_equivalent": "Meituan"
     },
     "music_subscription": {
-      "cost": 25.5,
+      "cost": 16,
       "currency": "CNY",
       "name_of_equivalent": "NetEase Cloud Music"
     },
@@ -749,7 +749,7 @@
       "currency": "CNY"
     },
     "effective_tax_rate_percentage": 32.86,
-    "cost_of_living_city_index": 2342
+    "cost_of_living_city_index": 2341.81
   },
   {
     "country": "China",
@@ -782,7 +782,7 @@
       "name_of_equivalent": "Meituan Waimai"
     },
     "music_subscription": {
-      "cost": 14.5,
+      "cost": 16,
       "currency": "CNY",
       "name_of_equivalent": "Apple Music"
     },
@@ -795,7 +795,7 @@
       "currency": "CNY"
     },
     "effective_tax_rate_percentage": 28,
-    "cost_of_living_city_index": 4430.49
+    "cost_of_living_city_index": 4430.52
   },
   {
     "country": "China",
@@ -828,7 +828,7 @@
       "name_of_equivalent": "Meituan"
     },
     "music_subscription": {
-      "cost": 14,
+      "cost": 16,
       "currency": "CNY",
       "name_of_equivalent": "QQ Music"
     },
@@ -841,7 +841,7 @@
       "currency": "CNY"
     },
     "effective_tax_rate_percentage": 25.4,
-    "cost_of_living_city_index": 2857.69
+    "cost_of_living_city_index": 2857.73
   },
   {
     "country": "Colombia",
@@ -874,7 +874,7 @@
       "name_of_equivalent": "Rappi"
     },
     "music_subscription": {
-      "cost": 17600,
+      "cost": 18500,
       "currency": "COP"
     },
     "gym": {
@@ -887,7 +887,7 @@
       "currency": "COP"
     },
     "effective_tax_rate_percentage": 21.21,
-    "cost_of_living_city_index": 1313671.75
+    "cost_of_living_city_index": 1313689.75
   },
   {
     "country": "Czech Republic",
@@ -962,7 +962,7 @@
       "name_of_equivalent": "Wolt"
     },
     "music_subscription": {
-      "cost": 77,
+      "cost": 119,
       "currency": "DKK"
     },
     "gym": {
@@ -974,7 +974,7 @@
       "currency": "DKK"
     },
     "effective_tax_rate_percentage": 43.16,
-    "cost_of_living_city_index": 4905.16
+    "cost_of_living_city_index": 4906
   },
   {
     "country": "Egypt",
@@ -1005,7 +1005,7 @@
       "currency": "EGP"
     },
     "music_subscription": {
-      "cost": 57.5,
+      "cost": 79,
       "currency": "EGP"
     },
     "gym": {
@@ -1017,7 +1017,7 @@
       "currency": "EGP"
     },
     "effective_tax_rate_percentage": 25,
-    "cost_of_living_city_index": 9189.05
+    "cost_of_living_city_index": 9189.48
   },
   {
     "country": "Estonia",
@@ -1051,7 +1051,7 @@
       "name_of_equivalent": "Wolt"
     },
     "music_subscription": {
-      "cost": 10.49,
+      "cost": 11.99,
       "currency": "EUR"
     },
     "gym": {
@@ -1063,7 +1063,7 @@
       "currency": "EUR"
     },
     "effective_tax_rate_percentage": 22.93,
-    "cost_of_living_city_index": 364.69
+    "cost_of_living_city_index": 364.72
   },
   {
     "country": "Finland",
@@ -1095,7 +1095,7 @@
       "name_of_equivalent": "Wolt"
     },
     "music_subscription": {
-      "cost": 11.69,
+      "cost": 12.99,
       "currency": "EUR"
     },
     "gym": {
@@ -1107,7 +1107,7 @@
       "currency": "EUR"
     },
     "effective_tax_rate_percentage": 40.24,
-    "cost_of_living_city_index": 529.78
+    "cost_of_living_city_index": 529.81
   },
   {
     "country": "France",
@@ -1137,7 +1137,7 @@
       "currency": "EUR"
     },
     "music_subscription": {
-      "cost": 10.99,
+      "cost": 12.14,
       "currency": "EUR"
     },
     "gym": {
@@ -1149,7 +1149,7 @@
       "currency": "EUR"
     },
     "effective_tax_rate_percentage": 37.14,
-    "cost_of_living_city_index": 642.5
+    "cost_of_living_city_index": 642.52
   },
   {
     "country": "Germany",
@@ -1181,7 +1181,7 @@
       "name_of_equivalent": "Wolt"
     },
     "music_subscription": {
-      "cost": 10.99,
+      "cost": 12.99,
       "currency": "EUR"
     },
     "gym": {
@@ -1193,7 +1193,7 @@
       "currency": "EUR"
     },
     "effective_tax_rate_percentage": 42.4,
-    "cost_of_living_city_index": 558.82
+    "cost_of_living_city_index": 558.86
   },
   {
     "country": "Germany",
@@ -1223,7 +1223,7 @@
       "currency": "EUR"
     },
     "music_subscription": {
-      "cost": 11.39,
+      "cost": 12.99,
       "currency": "EUR"
     },
     "gym": {
@@ -1235,7 +1235,7 @@
       "currency": "EUR"
     },
     "effective_tax_rate_percentage": 42.22,
-    "cost_of_living_city_index": 582.58
+    "cost_of_living_city_index": 582.61
   },
   {
     "country": "Germany",
@@ -1268,7 +1268,7 @@
       "name_of_equivalent": "Lieferando"
     },
     "music_subscription": {
-      "cost": 10.99,
+      "cost": 12.99,
       "currency": "EUR"
     },
     "gym": {
@@ -1280,7 +1280,7 @@
       "currency": "EUR"
     },
     "effective_tax_rate_percentage": 41.6,
-    "cost_of_living_city_index": 454.6
+    "cost_of_living_city_index": 454.64
   },
   {
     "country": "Germany",
@@ -1313,7 +1313,7 @@
       "name_of_equivalent": "Wolt"
     },
     "music_subscription": {
-      "cost": 10.99,
+      "cost": 12.99,
       "currency": "EUR"
     },
     "gym": {
@@ -1325,7 +1325,7 @@
       "currency": "EUR"
     },
     "effective_tax_rate_percentage": 42.22,
-    "cost_of_living_city_index": 592.11
+    "cost_of_living_city_index": 592.15
   },
   {
     "country": "Greece",
@@ -1358,7 +1358,7 @@
       "name_of_equivalent": "Wolt"
     },
     "music_subscription": {
-      "cost": 10.49,
+      "cost": 8.99,
       "currency": "EUR"
     },
     "gym": {
@@ -1370,7 +1370,7 @@
       "currency": "EUR"
     },
     "effective_tax_rate_percentage": 42.78,
-    "cost_of_living_city_index": 376.27
+    "cost_of_living_city_index": 376.24
   },
   {
     "country": "Hong Kong",
@@ -1401,7 +1401,7 @@
       "currency": "HKD"
     },
     "music_subscription": {
-      "cost": 58,
+      "cost": 78,
       "currency": "HKD"
     },
     "gym": {
@@ -1413,7 +1413,7 @@
       "currency": "HKD"
     },
     "effective_tax_rate_percentage": 15.21,
-    "cost_of_living_city_index": 9050.64
+    "cost_of_living_city_index": 9051.04
   },
   {
     "country": "Hungary",
@@ -1446,7 +1446,7 @@
       "name_of_equivalent": "Wolt"
     },
     "music_subscription": {
-      "cost": 2440,
+      "cost": 2190,
       "currency": "HUF"
     },
     "gym": {
@@ -1458,7 +1458,7 @@
       "currency": "HUF"
     },
     "effective_tax_rate_percentage": 33.5,
-    "cost_of_living_city_index": 107932.47
+    "cost_of_living_city_index": 107927.47
   },
   {
     "country": "India",
@@ -1492,7 +1492,7 @@
       "name_of_equivalent": "Swiggy/Zomato"
     },
     "music_subscription": {
-      "cost": 126.5,
+      "cost": 199,
       "currency": "INR"
     },
     "gym": {
@@ -1504,7 +1504,7 @@
       "currency": "INR"
     },
     "effective_tax_rate_percentage": 26.92,
-    "cost_of_living_city_index": 13490.33
+    "cost_of_living_city_index": 13491.78
   },
   {
     "country": "India",
@@ -1536,7 +1536,7 @@
       "name_of_equivalent": "Swiggy/Zomato premium fast food meal"
     },
     "music_subscription": {
-      "cost": 118.5,
+      "cost": 199,
       "currency": "INR"
     },
     "gym": {
@@ -1548,7 +1548,7 @@
       "currency": "INR"
     },
     "effective_tax_rate_percentage": 21.86,
-    "cost_of_living_city_index": 10436.85
+    "cost_of_living_city_index": 10438.46
   },
   {
     "country": "India",
@@ -1581,7 +1581,7 @@
       "name_of_equivalent": "Zomato/Swiggy delivery"
     },
     "music_subscription": {
-      "cost": 123,
+      "cost": 199,
       "currency": "INR"
     },
     "gym": {
@@ -1593,7 +1593,7 @@
       "currency": "INR"
     },
     "effective_tax_rate_percentage": 23.89,
-    "cost_of_living_city_index": 23410.44
+    "cost_of_living_city_index": 23411.96
   },
   {
     "country": "India",
@@ -1625,7 +1625,7 @@
       "name_of_equivalent": "Zomato delivery"
     },
     "music_subscription": {
-      "cost": 124,
+      "cost": 199,
       "currency": "INR"
     },
     "gym": {
@@ -1637,7 +1637,7 @@
       "currency": "INR"
     },
     "effective_tax_rate_percentage": 25.27,
-    "cost_of_living_city_index": 14875.81
+    "cost_of_living_city_index": 14877.31
   },
   {
     "country": "Indonesia",
@@ -1671,7 +1671,7 @@
       "name_of_equivalent": "GrabFood"
     },
     "music_subscription": {
-      "cost": 58490,
+      "cost": 79900,
       "currency": "IDR"
     },
     "gym": {
@@ -1683,7 +1683,7 @@
       "currency": "IDR"
     },
     "effective_tax_rate_percentage": 21,
-    "cost_of_living_city_index": 3824934.8
+    "cost_of_living_city_index": 3825363
   },
   {
     "country": "Ireland",
@@ -1716,7 +1716,7 @@
       "currency": "EUR"
     },
     "music_subscription": {
-      "cost": 10.99,
+      "cost": 11.99,
       "currency": "EUR"
     },
     "gym": {
@@ -1728,7 +1728,7 @@
       "currency": "EUR"
     },
     "effective_tax_rate_percentage": 39.48,
-    "cost_of_living_city_index": 802.07
+    "cost_of_living_city_index": 802.09
   },
   {
     "country": "Israel",
@@ -1762,7 +1762,7 @@
       "name_of_equivalent": "Wolt"
     },
     "music_subscription": {
-      "cost": 25.7,
+      "cost": 23.9,
       "currency": "ILS"
     },
     "gym": {
@@ -1774,7 +1774,7 @@
       "currency": "ILS"
     },
     "effective_tax_rate_percentage": 39.11,
-    "cost_of_living_city_index": 2981.72
+    "cost_of_living_city_index": 2981.69
   },
   {
     "country": "Italy",
@@ -1804,7 +1804,7 @@
       "currency": "EUR"
     },
     "music_subscription": {
-      "cost": 10.99,
+      "cost": 11.99,
       "currency": "EUR"
     },
     "gym": {
@@ -1816,7 +1816,7 @@
       "currency": "EUR"
     },
     "effective_tax_rate_percentage": 43.16,
-    "cost_of_living_city_index": 632.98
+    "cost_of_living_city_index": 633
   },
   {
     "country": "Italy",
@@ -1847,7 +1847,7 @@
       "currency": "EUR"
     },
     "music_subscription": {
-      "cost": 10.99,
+      "cost": 11.99,
       "currency": "EUR"
     },
     "gym": {
@@ -1859,7 +1859,7 @@
       "currency": "EUR"
     },
     "effective_tax_rate_percentage": 42.35,
-    "cost_of_living_city_index": 556.52
+    "cost_of_living_city_index": 556.54
   },
   {
     "country": "Japan",
@@ -1891,7 +1891,7 @@
       "currency": "JPY"
     },
     "music_subscription": {
-      "cost": 1010,
+      "cost": 1080,
       "currency": "JPY"
     },
     "gym": {
@@ -1903,7 +1903,7 @@
       "currency": "JPY"
     },
     "effective_tax_rate_percentage": 30,
-    "cost_of_living_city_index": 48760.13
+    "cost_of_living_city_index": 48761.53
   },
   {
     "country": "Japan",
@@ -1935,7 +1935,7 @@
       "currency": "JPY"
     },
     "music_subscription": {
-      "cost": 980,
+      "cost": 1080,
       "currency": "JPY"
     },
     "gym": {
@@ -1947,7 +1947,7 @@
       "currency": "JPY"
     },
     "effective_tax_rate_percentage": 32,
-    "cost_of_living_city_index": 84092.25
+    "cost_of_living_city_index": 84094.25
   },
   {
     "country": "Kazakhstan",
@@ -1980,8 +1980,8 @@
       "name_of_equivalent": "Glovo delivery"
     },
     "music_subscription": {
-      "cost": 1840,
-      "currency": "KZT"
+      "cost": 4.99,
+      "currency": "USD"
     },
     "gym": {
       "cost": 49500,
@@ -1992,7 +1992,7 @@
       "currency": "KZT"
     },
     "effective_tax_rate_percentage": 21.15,
-    "cost_of_living_city_index": 110821.35
+    "cost_of_living_city_index": 110832.06
   },
   {
     "country": "Kenya",
@@ -2024,7 +2024,7 @@
       "currency": "KES"
     },
     "music_subscription": {
-      "cost": 329,
+      "cost": 419,
       "currency": "KES"
     },
     "gym": {
@@ -2036,7 +2036,7 @@
       "currency": "KES"
     },
     "effective_tax_rate_percentage": 33.6,
-    "cost_of_living_city_index": 32958.38
+    "cost_of_living_city_index": 32960.18
   },
   {
     "country": "Luxembourg",
@@ -2069,7 +2069,7 @@
       "currency": "EUR"
     },
     "music_subscription": {
-      "cost": 10.99,
+      "cost": 12.99,
       "currency": "EUR"
     },
     "gym": {
@@ -2081,7 +2081,7 @@
       "currency": "EUR"
     },
     "effective_tax_rate_percentage": 36,
-    "cost_of_living_city_index": 686.26
+    "cost_of_living_city_index": 686.3
   },
   {
     "country": "Malaysia",
@@ -2115,7 +2115,7 @@
       "name_of_equivalent": "GrabFood delivery"
     },
     "music_subscription": {
-      "cost": 15.9,
+      "cost": 17.5,
       "currency": "MYR"
     },
     "gym": {
@@ -2127,7 +2127,7 @@
       "currency": "MYR"
     },
     "effective_tax_rate_percentage": 28.33,
-    "cost_of_living_city_index": 1103.32
+    "cost_of_living_city_index": 1103.36
   },
   {
     "country": "Mexico",
@@ -2158,7 +2158,7 @@
       "name_of_equivalent": "Rappi or Uber Eats premium fast food meal"
     },
     "music_subscription": {
-      "cost": 138.8,
+      "cost": 139,
       "currency": "MXN"
     },
     "gym": {
@@ -2170,7 +2170,7 @@
       "currency": "MXN"
     },
     "effective_tax_rate_percentage": 28.42,
-    "cost_of_living_city_index": 7944.09
+    "cost_of_living_city_index": 7944.1
   },
   {
     "country": "Morocco",
@@ -2204,7 +2204,7 @@
       "name_of_equivalent": "Glovo"
     },
     "music_subscription": {
-      "cost": 31.5,
+      "cost": 45,
       "currency": "MAD"
     },
     "gym": {
@@ -2216,7 +2216,7 @@
       "currency": "MAD"
     },
     "effective_tax_rate_percentage": 36.19,
-    "cost_of_living_city_index": 2441.38
+    "cost_of_living_city_index": 2441.65
   },
   {
     "country": "Netherlands",
@@ -2249,7 +2249,7 @@
       "name_of_equivalent": "Thuisbezorgd/Uber Eats order"
     },
     "music_subscription": {
-      "cost": 10.99,
+      "cost": 12.99,
       "currency": "EUR"
     },
     "gym": {
@@ -2261,7 +2261,7 @@
       "currency": "EUR"
     },
     "effective_tax_rate_percentage": 41.67,
-    "cost_of_living_city_index": 679.09
+    "cost_of_living_city_index": 679.13
   },
   {
     "country": "New Zealand",
@@ -2293,7 +2293,7 @@
       "currency": "NZD"
     },
     "music_subscription": {
-      "cost": 17.74,
+      "cost": 18.99,
       "currency": "NZD"
     },
     "gym": {
@@ -2305,7 +2305,7 @@
       "currency": "NZD"
     },
     "effective_tax_rate_percentage": 29.14,
-    "cost_of_living_city_index": 911.04
+    "cost_of_living_city_index": 911.06
   },
   {
     "country": "Nigeria",
@@ -2339,7 +2339,7 @@
       "name_of_equivalent": "Chowdeck"
     },
     "music_subscription": {
-      "cost": 3050,
+      "cost": 1600,
       "currency": "NGN"
     },
     "gym": {
@@ -2351,7 +2351,7 @@
       "currency": "NGN"
     },
     "effective_tax_rate_percentage": 23.53,
-    "cost_of_living_city_index": 122306.85
+    "cost_of_living_city_index": 122277.85
   },
   {
     "country": "Norway",
@@ -2382,7 +2382,7 @@
       "name_of_equivalent": "Wolt"
     },
     "music_subscription": {
-      "cost": 124,
+      "cost": 139,
       "currency": "NOK"
     },
     "gym": {
@@ -2394,7 +2394,7 @@
       "currency": "NOK"
     },
     "effective_tax_rate_percentage": 31.11,
-    "cost_of_living_city_index": 6475.43
+    "cost_of_living_city_index": 6475.73
   },
   {
     "country": "Pakistan",
@@ -2428,7 +2428,7 @@
       "name_of_equivalent": "Foodpanda premium fast food meal"
     },
     "music_subscription": {
-      "cost": 349,
+      "cost": 379,
       "currency": "PKR"
     },
     "gym": {
@@ -2440,7 +2440,7 @@
       "currency": "PKR"
     },
     "effective_tax_rate_percentage": 31.5,
-    "cost_of_living_city_index": 31415.38
+    "cost_of_living_city_index": 31415.98
   },
   {
     "country": "Peru",
@@ -2471,7 +2471,7 @@
       "currency": "PEN"
     },
     "music_subscription": {
-      "cost": 18.9,
+      "cost": 20.9,
       "currency": "PEN"
     },
     "gym": {
@@ -2483,7 +2483,7 @@
       "currency": "PEN"
     },
     "effective_tax_rate_percentage": 30,
-    "cost_of_living_city_index": 1072.08
+    "cost_of_living_city_index": 1072.12
   },
   {
     "country": "Philippines",
@@ -2517,7 +2517,7 @@
       "name_of_equivalent": "GrabFood"
     },
     "music_subscription": {
-      "cost": 145.5,
+      "cost": 169,
       "currency": "PHP"
     },
     "gym": {
@@ -2529,7 +2529,7 @@
       "currency": "PHP"
     },
     "effective_tax_rate_percentage": 25.71,
-    "cost_of_living_city_index": 15149.01
+    "cost_of_living_city_index": 15149.48
   },
   {
     "country": "Poland",
@@ -2560,7 +2560,7 @@
       "currency": "PLN"
     },
     "music_subscription": {
-      "cost": 23.39,
+      "cost": 26.99,
       "currency": "PLN"
     },
     "gym": {
@@ -2572,7 +2572,7 @@
       "currency": "PLN"
     },
     "effective_tax_rate_percentage": 38.89,
-    "cost_of_living_city_index": 1938.43
+    "cost_of_living_city_index": 1938.5
   },
   {
     "country": "Portugal",
@@ -2603,7 +2603,7 @@
       "currency": "EUR"
     },
     "music_subscription": {
-      "cost": 10.99,
+      "cost": 8.99,
       "currency": "EUR"
     },
     "gym": {
@@ -2615,7 +2615,7 @@
       "currency": "EUR"
     },
     "effective_tax_rate_percentage": 41.58,
-    "cost_of_living_city_index": 607.17
+    "cost_of_living_city_index": 607.13
   },
   {
     "country": "Qatar",
@@ -2648,7 +2648,7 @@
     },
     "music_subscription": {
       "cost": 21.99,
-      "currency": "QAR"
+      "currency": "USD"
     },
     "gym": {
       "cost": 495,
@@ -2659,7 +2659,7 @@
       "currency": "QAR"
     },
     "effective_tax_rate_percentage": 0,
-    "cost_of_living_city_index": 2495.89
+    "cost_of_living_city_index": 2497.05
   },
   {
     "country": "Romania",
@@ -2690,7 +2690,7 @@
       "currency": "RON"
     },
     "music_subscription": {
-      "cost": 26.1,
+      "cost": 26,
       "currency": "RON"
     },
     "gym": {
@@ -2735,7 +2735,7 @@
       "name_of_equivalent": "Yandex Eда"
     },
     "music_subscription": {
-      "cost": 324,
+      "cost": 332,
       "currency": "RUB",
       "name_of_equivalent": "Yandex Plus"
     },
@@ -2748,7 +2748,7 @@
       "currency": "RUB"
     },
     "effective_tax_rate_percentage": 13.61,
-    "cost_of_living_city_index": 37895.97
+    "cost_of_living_city_index": 37896.13
   },
   {
     "country": "Russia",
@@ -2781,7 +2781,7 @@
       "name_of_equivalent": "Yandex Eda"
     },
     "music_subscription": {
-      "cost": 339,
+      "cost": 332,
       "currency": "RUB",
       "name_of_equivalent": "Yandex Plus"
     },
@@ -2794,7 +2794,7 @@
       "currency": "RUB"
     },
     "effective_tax_rate_percentage": 13,
-    "cost_of_living_city_index": 20926.86
+    "cost_of_living_city_index": 20926.72
   },
   {
     "country": "Saudi Arabia",
@@ -2825,7 +2825,7 @@
       "currency": "SAR"
     },
     "music_subscription": {
-      "cost": 26.99,
+      "cost": 31.99,
       "currency": "SAR"
     },
     "gym": {
@@ -2837,7 +2837,7 @@
       "currency": "SAR"
     },
     "effective_tax_rate_percentage": 0,
-    "cost_of_living_city_index": 2292.97
+    "cost_of_living_city_index": 2293.07
   },
   {
     "country": "Singapore",
@@ -2871,7 +2871,7 @@
       "name_of_equivalent": "GrabFood"
     },
     "music_subscription": {
-      "cost": 10.22,
+      "cost": 11.98,
       "currency": "SGD"
     },
     "gym": {
@@ -2883,7 +2883,7 @@
       "currency": "SGD"
     },
     "effective_tax_rate_percentage": 10.95,
-    "cost_of_living_city_index": 1357.61
+    "cost_of_living_city_index": 1357.64
   },
   {
     "country": "South Africa",
@@ -2915,7 +2915,7 @@
       "currency": "ZAR"
     },
     "music_subscription": {
-      "cost": 90,
+      "cost": 94.99,
       "currency": "ZAR"
     },
     "gym": {
@@ -2927,7 +2927,7 @@
       "currency": "ZAR"
     },
     "effective_tax_rate_percentage": 33.75,
-    "cost_of_living_city_index": 5288.98
+    "cost_of_living_city_index": 5289.07
   },
   {
     "country": "South Africa",
@@ -2959,7 +2959,7 @@
       "currency": "ZAR"
     },
     "music_subscription": {
-      "cost": 84,
+      "cost": 94.99,
       "currency": "ZAR"
     },
     "gym": {
@@ -2971,7 +2971,7 @@
       "currency": "ZAR"
     },
     "effective_tax_rate_percentage": 32.71,
-    "cost_of_living_city_index": 4690.27
+    "cost_of_living_city_index": 4690.49
   },
   {
     "country": "South Korea",
@@ -3001,7 +3001,7 @@
       "currency": "KRW"
     },
     "music_subscription": {
-      "cost": 11150,
+      "cost": 10900,
       "currency": "KRW"
     },
     "gym": {
@@ -3013,7 +3013,7 @@
       "currency": "KRW"
     },
     "effective_tax_rate_percentage": 30,
-    "cost_of_living_city_index": 758592.45
+    "cost_of_living_city_index": 758587.45
   },
   {
     "country": "Spain",
@@ -3046,7 +3046,7 @@
       "name_of_equivalent": "Glovo"
     },
     "music_subscription": {
-      "cost": 10.99,
+      "cost": 11.99,
       "currency": "EUR"
     },
     "gym": {
@@ -3059,7 +3059,7 @@
       "currency": "EUR"
     },
     "effective_tax_rate_percentage": 37.06,
-    "cost_of_living_city_index": 531.96
+    "cost_of_living_city_index": 531.98
   },
   {
     "country": "Spain",
@@ -3092,7 +3092,7 @@
       "name_of_equivalent": "Glovo"
     },
     "music_subscription": {
-      "cost": 10.99,
+      "cost": 11.99,
       "currency": "EUR"
     },
     "gym": {
@@ -3104,7 +3104,7 @@
       "currency": "EUR"
     },
     "effective_tax_rate_percentage": 36.32,
-    "cost_of_living_city_index": 554.92
+    "cost_of_living_city_index": 554.94
   },
   {
     "country": "Sweden",
@@ -3136,7 +3136,7 @@
       "name_of_equivalent": "Foodora order"
     },
     "music_subscription": {
-      "cost": 124,
+      "cost": 129,
       "currency": "SEK"
     },
     "gym": {
@@ -3148,7 +3148,7 @@
       "currency": "SEK"
     },
     "effective_tax_rate_percentage": 30,
-    "cost_of_living_city_index": 5818.1
+    "cost_of_living_city_index": 5818.2
   },
   {
     "country": "Switzerland",
@@ -3179,7 +3179,7 @@
       "currency": "CHF"
     },
     "music_subscription": {
-      "cost": 13.53,
+      "cost": 13.95,
       "currency": "CHF"
     },
     "gym": {
@@ -3191,7 +3191,7 @@
       "currency": "CHF"
     },
     "effective_tax_rate_percentage": 34.29,
-    "cost_of_living_city_index": 941.15
+    "cost_of_living_city_index": 941.16
   },
   {
     "country": "Switzerland",
@@ -3222,7 +3222,7 @@
       "currency": "CHF"
     },
     "music_subscription": {
-      "cost": 16.1,
+      "cost": 13.95,
       "currency": "CHF"
     },
     "gym": {
@@ -3234,7 +3234,7 @@
       "currency": "CHF"
     },
     "effective_tax_rate_percentage": 27.18,
-    "cost_of_living_city_index": 952.5
+    "cost_of_living_city_index": 952.46
   },
   {
     "country": "Taiwan",
@@ -3265,7 +3265,7 @@
       "currency": "TWD"
     },
     "music_subscription": {
-      "cost": 173,
+      "cost": 168,
       "currency": "TWD"
     },
     "gym": {
@@ -3277,7 +3277,7 @@
       "currency": "TWD"
     },
     "effective_tax_rate_percentage": 18.95,
-    "cost_of_living_city_index": 12618.81
+    "cost_of_living_city_index": 12618.71
   },
   {
     "country": "Thailand",
@@ -3311,7 +3311,7 @@
       "name_of_equivalent": "GrabFood"
     },
     "music_subscription": {
-      "cost": 129,
+      "cost": 149,
       "currency": "THB"
     },
     "gym": {
@@ -3323,7 +3323,7 @@
       "currency": "THB"
     },
     "effective_tax_rate_percentage": 21.44,
-    "cost_of_living_city_index": 10279.53
+    "cost_of_living_city_index": 10279.93
   },
   {
     "country": "Turkey",
@@ -3356,7 +3356,7 @@
       "name_of_equivalent": "Yemeksepeti"
     },
     "music_subscription": {
-      "cost": 70,
+      "cost": 99,
       "currency": "TRY"
     },
     "gym": {
@@ -3368,7 +3368,7 @@
       "currency": "TRY"
     },
     "effective_tax_rate_percentage": 39.29,
-    "cost_of_living_city_index": 11069.78
+    "cost_of_living_city_index": 11070.36
   },
   {
     "country": "United Arab Emirates",
@@ -3401,7 +3401,7 @@
       "name_of_equivalent": "Talabat premium fast food delivery"
     },
     "music_subscription": {
-      "cost": 19.99,
+      "cost": 31.99,
       "currency": "AED"
     },
     "gym": {
@@ -3413,7 +3413,7 @@
       "currency": "AED"
     },
     "effective_tax_rate_percentage": 0,
-    "cost_of_living_city_index": 2436.17
+    "cost_of_living_city_index": 2436.41
   },
   {
     "country": "United Arab Emirates",
@@ -3446,7 +3446,7 @@
       "name_of_equivalent": "Talabat"
     },
     "music_subscription": {
-      "cost": 20.99,
+      "cost": 31.99,
       "currency": "AED"
     },
     "gym": {
@@ -3458,7 +3458,7 @@
       "currency": "AED"
     },
     "effective_tax_rate_percentage": 0,
-    "cost_of_living_city_index": 3175.93
+    "cost_of_living_city_index": 3176.15
   },
   {
     "country": "United Kingdom",
@@ -3490,7 +3490,7 @@
       "currency": "GBP"
     },
     "music_subscription": {
-      "cost": 10.99,
+      "cost": 12.99,
       "currency": "GBP"
     },
     "gym": {
@@ -3502,7 +3502,7 @@
       "currency": "GBP"
     },
     "effective_tax_rate_percentage": 32.9,
-    "cost_of_living_city_index": 502.3
+    "cost_of_living_city_index": 502.34
   },
   {
     "country": "United Kingdom",
@@ -3533,7 +3533,7 @@
       "currency": "GBP"
     },
     "music_subscription": {
-      "cost": 11.84,
+      "cost": 12.99,
       "currency": "GBP"
     },
     "gym": {
@@ -3545,7 +3545,7 @@
       "currency": "GBP"
     },
     "effective_tax_rate_percentage": 32.41,
-    "cost_of_living_city_index": 811.94
+    "cost_of_living_city_index": 811.96
   },
   {
     "country": "United Kingdom",
@@ -3576,7 +3576,7 @@
       "currency": "GBP"
     },
     "music_subscription": {
-      "cost": 11.84,
+      "cost": 12.99,
       "currency": "GBP"
     },
     "gym": {
@@ -3588,7 +3588,7 @@
       "currency": "GBP"
     },
     "effective_tax_rate_percentage": 28.81,
-    "cost_of_living_city_index": 436.88
+    "cost_of_living_city_index": 436.9
   },
   {
     "country": "United Kingdom",
@@ -3620,7 +3620,7 @@
       "currency": "GBP"
     },
     "music_subscription": {
-      "cost": 10.99,
+      "cost": 12.99,
       "currency": "GBP"
     },
     "gym": {
@@ -3632,7 +3632,7 @@
       "currency": "GBP"
     },
     "effective_tax_rate_percentage": 32.83,
-    "cost_of_living_city_index": 503.07
+    "cost_of_living_city_index": 503.11
   },
   {
     "country": "Ukraine",
@@ -3665,8 +3665,8 @@
       "name_of_equivalent": "Glovo delivery"
     },
     "music_subscription": {
-      "cost": 93,
-      "currency": "UAH"
+      "cost": 4.99,
+      "currency": "USD"
     },
     "gym": {
       "cost": 1975,
@@ -3677,7 +3677,7 @@
       "currency": "UAH"
     },
     "effective_tax_rate_percentage": 23,
-    "cost_of_living_city_index": 7157.99
+    "cost_of_living_city_index": 7160.5
   },
   {
     "country": "United States",
@@ -3709,7 +3709,7 @@
       "currency": "USD"
     },
     "music_subscription": {
-      "cost": 11.99,
+      "cost": 12.99,
       "currency": "USD"
     },
     "gym": {
@@ -3721,7 +3721,7 @@
       "currency": "USD"
     },
     "effective_tax_rate_percentage": 31.36,
-    "cost_of_living_city_index": 683.02
+    "cost_of_living_city_index": 683.04
   },
   {
     "country": "United States",
@@ -3753,7 +3753,7 @@
       "currency": "USD"
     },
     "music_subscription": {
-      "cost": 12.09,
+      "cost": 12.99,
       "currency": "USD"
     },
     "gym": {
@@ -3765,7 +3765,7 @@
       "currency": "USD"
     },
     "effective_tax_rate_percentage": 25.64,
-    "cost_of_living_city_index": 706.24
+    "cost_of_living_city_index": 706.26
   },
   {
     "country": "United States",
@@ -3841,7 +3841,7 @@
       "currency": "USD"
     },
     "music_subscription": {
-      "cost": 11.69,
+      "cost": 12.99,
       "currency": "USD"
     },
     "gym": {
@@ -3853,7 +3853,7 @@
       "currency": "USD"
     },
     "effective_tax_rate_percentage": 30.38,
-    "cost_of_living_city_index": 811.09
+    "cost_of_living_city_index": 811.12
   },
   {
     "country": "United States",
@@ -3885,7 +3885,7 @@
       "currency": "USD"
     },
     "music_subscription": {
-      "cost": 11.69,
+      "cost": 12.99,
       "currency": "USD"
     },
     "gym": {
@@ -3897,7 +3897,7 @@
       "currency": "USD"
     },
     "effective_tax_rate_percentage": 27.31,
-    "cost_of_living_city_index": 697.27
+    "cost_of_living_city_index": 697.3
   },
   {
     "country": "United States",
@@ -3928,7 +3928,7 @@
       "currency": "USD"
     },
     "music_subscription": {
-      "cost": 12.49,
+      "cost": 12.99,
       "currency": "USD"
     },
     "gym": {
@@ -3940,7 +3940,7 @@
       "currency": "USD"
     },
     "effective_tax_rate_percentage": 30.64,
-    "cost_of_living_city_index": 701.65
+    "cost_of_living_city_index": 701.66
   },
   {
     "country": "United States",
@@ -3972,7 +3972,7 @@
       "currency": "USD"
     },
     "music_subscription": {
-      "cost": 12.04,
+      "cost": 12.99,
       "currency": "USD"
     },
     "gym": {
@@ -3984,7 +3984,7 @@
       "currency": "USD"
     },
     "effective_tax_rate_percentage": 27,
-    "cost_of_living_city_index": 682.52
+    "cost_of_living_city_index": 682.54
   },
   {
     "country": "United States",
@@ -4014,7 +4014,7 @@
       "currency": "USD"
     },
     "music_subscription": {
-      "cost": 12.64,
+      "cost": 12.99,
       "currency": "USD"
     },
     "gym": {
@@ -4026,7 +4026,7 @@
       "currency": "USD"
     },
     "effective_tax_rate_percentage": 35.42,
-    "cost_of_living_city_index": 1042.5
+    "cost_of_living_city_index": 1042.51
   },
   {
     "country": "United States",
@@ -4057,7 +4057,7 @@
       "currency": "USD"
     },
     "music_subscription": {
-      "cost": 11.99,
+      "cost": 12.99,
       "currency": "USD"
     },
     "gym": {
@@ -4069,7 +4069,7 @@
       "currency": "USD"
     },
     "effective_tax_rate_percentage": 27.31,
-    "cost_of_living_city_index": 996.49
+    "cost_of_living_city_index": 996.51
   },
   {
     "country": "United States",
@@ -4100,7 +4100,7 @@
       "currency": "USD"
     },
     "music_subscription": {
-      "cost": 12.94,
+      "cost": 12.99,
       "currency": "USD"
     },
     "gym": {
@@ -4144,7 +4144,7 @@
       "currency": "USD"
     },
     "music_subscription": {
-      "cost": 12.19,
+      "cost": 12.99,
       "currency": "USD"
     },
     "gym": {
@@ -4156,7 +4156,7 @@
       "currency": "USD"
     },
     "effective_tax_rate_percentage": 33.26,
-    "cost_of_living_city_index": 706.27
+    "cost_of_living_city_index": 706.29
   },
   {
     "country": "United States",
@@ -4187,7 +4187,7 @@
       "currency": "USD"
     },
     "music_subscription": {
-      "cost": 11.84,
+      "cost": 12.99,
       "currency": "USD"
     },
     "gym": {
@@ -4199,7 +4199,7 @@
       "currency": "USD"
     },
     "effective_tax_rate_percentage": 37.14,
-    "cost_of_living_city_index": 1191.47
+    "cost_of_living_city_index": 1191.49
   },
   {
     "country": "United States",
@@ -4230,7 +4230,7 @@
       "currency": "USD"
     },
     "music_subscription": {
-      "cost": 12.49,
+      "cost": 12.99,
       "currency": "USD"
     },
     "gym": {
@@ -4242,7 +4242,7 @@
       "currency": "USD"
     },
     "effective_tax_rate_percentage": 36.9,
-    "cost_of_living_city_index": 1011.91
+    "cost_of_living_city_index": 1011.92
   },
   {
     "country": "United States",
@@ -4272,7 +4272,7 @@
       "currency": "USD"
     },
     "music_subscription": {
-      "cost": 12.04,
+      "cost": 12.99,
       "currency": "USD"
     },
     "gym": {
@@ -4284,7 +4284,7 @@
       "currency": "USD"
     },
     "effective_tax_rate_percentage": 27.78,
-    "cost_of_living_city_index": 844.31
+    "cost_of_living_city_index": 844.33
   },
   {
     "country": "United States",
@@ -4314,7 +4314,7 @@
       "currency": "USD"
     },
     "music_subscription": {
-      "cost": 12.34,
+      "cost": 12.99,
       "currency": "USD"
     },
     "gym": {
@@ -4326,7 +4326,7 @@
       "currency": "USD"
     },
     "effective_tax_rate_percentage": 34.04,
-    "cost_of_living_city_index": 966.04
+    "cost_of_living_city_index": 966.05
   },
   {
     "country": "Vietnam",
@@ -4359,7 +4359,7 @@
       "name_of_equivalent": "GrabFood"
     },
     "music_subscription": {
-      "cost": 59000,
+      "cost": 65000,
       "currency": "VND"
     },
     "gym": {
@@ -4371,7 +4371,7 @@
       "currency": "VND"
     },
     "effective_tax_rate_percentage": 29.6,
-    "cost_of_living_city_index": 5449022
+    "cost_of_living_city_index": 5449142
   },
   {
     "country": "Vietnam",
@@ -4404,7 +4404,7 @@
       "name_of_equivalent": "Premium fast food meal via GrabFood"
     },
     "music_subscription": {
-      "cost": 59000,
+      "cost": 65000,
       "currency": "VND"
     },
     "gym": {
@@ -4416,6 +4416,6 @@
       "currency": "VND"
     },
     "effective_tax_rate_percentage": 31.43,
-    "cost_of_living_city_index": 6662820
+    "cost_of_living_city_index": 6662940
   }
 ]

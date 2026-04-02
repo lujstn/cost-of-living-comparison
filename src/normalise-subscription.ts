@@ -1,0 +1,215 @@
+import * as fs from "fs";
+import * as path from "path";
+import { fileURLToPath } from "url";
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+
+interface CostItem {
+  cost: number;
+  currency: string;
+  name_of_equivalent?: string;
+}
+
+interface CityResult {
+  country: string;
+  city: string;
+  oat_latte: CostItem;
+  nice_dinner: CostItem;
+  lime_bike: CostItem;
+  metro_ride: CostItem;
+  phv_ride: CostItem;
+  food_delivery: CostItem;
+  music_subscription: CostItem;
+  gym: CostItem;
+  monthly_rent_share: { cost: number; currency: string };
+  effective_tax_rate_percentage: number;
+  cost_of_living_city_index: number;
+}
+
+interface SpotifyEntry {
+  country: string;
+  price: string;
+  currency_code: string;
+}
+
+function median(values: number[]): number {
+  const sorted = [...values].sort((a, b) => a - b);
+  const mid = Math.floor(sorted.length / 2);
+  return sorted.length % 2 !== 0
+    ? sorted[mid]
+    : (sorted[mid - 1] + sorted[mid]) / 2;
+}
+
+function round2(n: number): number {
+  return Math.round(n * 100) / 100;
+}
+
+function recalcIndex(city: CityResult, musicCostForIndex?: number): number {
+  const musicCost = musicCostForIndex ?? city.music_subscription.cost;
+
+  const tripGroup =
+    0.3 * city.lime_bike.cost +
+    0.3 * city.metro_ride.cost +
+    0.3 * city.phv_ride.cost;
+
+  const nicetiesGroup =
+    0.2 * musicCost + 0.4 * city.gym.cost + 0.4 * city.food_delivery.cost;
+
+  return round2(
+    0.6 * city.monthly_rent_share.cost +
+      0.05 * city.oat_latte.cost +
+      0.15 * city.nice_dinner.cost +
+      0.1 * tripGroup +
+      0.1 * nicetiesGroup,
+  );
+}
+
+async function fetchFxRate(base: string, quote: string): Promise<number> {
+  const url = `https://api.frankfurter.dev/v2/rates?base=${base}&quotes=${quote}`;
+  const res = await fetch(url);
+  if (!res.ok)
+    throw new Error(
+      `Frankfurter API error: ${res.status} for ${base}→${quote}`,
+    );
+  const data = (await res.json()) as Array<{ rate: number }>;
+  return data[0].rate;
+}
+
+async function main() {
+  const rootDir = path.resolve(__dirname, "..");
+  const finalPath = path.join(rootDir, "output/final/cost_of_living.json");
+  const spotifyPath = path.join(rootDir, "input/spotify-prices.json");
+
+  const cities: CityResult[] = JSON.parse(fs.readFileSync(finalPath, "utf-8"));
+  const spotifyRaw: SpotifyEntry[] = JSON.parse(
+    fs.readFileSync(spotifyPath, "utf-8"),
+  );
+
+  // Build Spotify lookup (lowercase country → { price, currency })
+  const spotifyLookup = new Map<string, { price: number; currency: string }>();
+  for (const entry of spotifyRaw) {
+    spotifyLookup.set(entry.country.toLowerCase(), {
+      price: parseFloat(entry.price.replace(/,/g, "")),
+      currency: entry.currency_code,
+    });
+  }
+
+  // Group cities by country
+  const byCountry = new Map<string, CityResult[]>();
+  for (const city of cities) {
+    const group = byCountry.get(city.country) || [];
+    group.push(city);
+    byCountry.set(city.country, group);
+  }
+
+  // Pre-fetch FX rates for all currency mismatches
+  const fxCache = new Map<string, number>();
+  for (const [country, countryCities] of byCountry) {
+    const spotify = spotifyLookup.get(country.toLowerCase());
+    if (!spotify) continue;
+    const localCurrency = countryCities[0].oat_latte.currency;
+    if (spotify.currency === localCurrency) continue;
+    const key = `${spotify.currency}→${localCurrency}`;
+    if (!fxCache.has(key)) {
+      const rate = await fetchFxRate(spotify.currency, localCurrency);
+      fxCache.set(key, rate);
+      console.log(
+        `  FX fetched: 1 ${spotify.currency} = ${rate} ${localCurrency}`,
+      );
+    }
+  }
+  if (fxCache.size > 0) console.log();
+
+  let spotifyMatches = 0;
+  let medianFallbacks = 0;
+  let fxConversions = 0;
+
+  for (const [country, countryCities] of byCountry) {
+    const spotify = spotifyLookup.get(country.toLowerCase());
+    const beforeValues = countryCities.map(
+      (c) => `${c.city}=${c.music_subscription.cost}`,
+    );
+
+    let newCost: number;
+    let newCurrency: string;
+    let source: string;
+    let musicCostForIndex: number | undefined;
+
+    if (spotify) {
+      newCost = spotify.price;
+      newCurrency = spotify.currency;
+      source = `Spotify (${newCost} ${newCurrency})`;
+      spotifyMatches++;
+
+      // Check for currency mismatch
+      const localCurrency = countryCities[0].oat_latte.currency;
+      if (newCurrency !== localCurrency) {
+        const fxKey = `${newCurrency}→${localCurrency}`;
+        const rate = fxCache.get(fxKey)!;
+        musicCostForIndex = round2(newCost * rate);
+        fxConversions++;
+      }
+    } else {
+      const costs = countryCities.map((c) => c.music_subscription.cost);
+      newCost = Math.round(median(costs));
+      newCurrency = countryCities[0].music_subscription.currency;
+      source = `Median → ${newCost} ${newCurrency}`;
+      medianFallbacks++;
+    }
+
+    console.log(
+      `\n=== ${country} (${countryCities.length} ${countryCities.length === 1 ? "city" : "cities"}) ===`,
+    );
+    console.log(`  Source: ${source}`);
+    if (musicCostForIndex !== undefined) {
+      const localCurrency = countryCities[0].oat_latte.currency;
+      const fxKey = `${newCurrency}→${localCurrency}`;
+      console.log(
+        `  FX: 1 ${newCurrency} = ${fxCache.get(fxKey)} ${localCurrency} → index uses ${musicCostForIndex} ${localCurrency}`,
+      );
+    }
+    console.log(`  Before: ${beforeValues.join(", ")}`);
+
+    const indexChanges: string[] = [];
+
+    for (const city of countryCities) {
+      const oldIndex = city.cost_of_living_city_index;
+
+      city.music_subscription.cost = newCost;
+      city.music_subscription.currency = newCurrency;
+
+      // If we matched Spotify, this IS Spotify — remove name_of_equivalent
+      if (spotify) {
+        delete city.music_subscription.name_of_equivalent;
+      }
+
+      const newIndex = recalcIndex(city, musicCostForIndex);
+      const diff = round2(newIndex - oldIndex);
+      city.cost_of_living_city_index = newIndex;
+
+      const sign = diff > 0 ? "+" : "";
+      indexChanges.push(`${city.city} ${sign}${diff}`);
+    }
+
+    const afterValues = countryCities.map(
+      (c) =>
+        `${c.city}=${c.music_subscription.cost} ${c.music_subscription.currency}`,
+    );
+    console.log(`  After:  ${afterValues.join(", ")}`);
+    console.log(`  Index:  ${indexChanges.join(" | ")}`);
+  }
+
+  // Write back
+  fs.writeFileSync(finalPath, JSON.stringify(cities, null, 2));
+
+  console.log(`\n--- Summary ---`);
+  console.log(
+    `${byCountry.size} countries: ${spotifyMatches} Spotify (${fxConversions} with FX conversion), ${medianFallbacks} median`,
+  );
+  console.log(`Written to ${finalPath}`);
+}
+
+main().catch((err) => {
+  console.error("Failed:", err);
+  process.exit(1);
+});
