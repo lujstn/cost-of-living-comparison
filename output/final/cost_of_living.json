@@ -1,0 +1,4421 @@
+[
+  {
+    "country": "Argentina",
+    "city": "Buenos Aires",
+    "oat_latte": {
+      "cost": 5600,
+      "currency": "ARS"
+    },
+    "nice_dinner": {
+      "cost": 43000,
+      "currency": "ARS"
+    },
+    "lime_bike": {
+      "cost": 50,
+      "currency": "ARS",
+      "name_of_equivalent": "Ecobici"
+    },
+    "metro_ride": {
+      "cost": 497,
+      "currency": "ARS",
+      "name_of_equivalent": "Subte"
+    },
+    "phv_ride": {
+      "cost": 10500,
+      "currency": "ARS"
+    },
+    "food_delivery": {
+      "cost": 14000,
+      "currency": "ARS",
+      "name_of_equivalent": "PedidosYa"
+    },
+    "music_subscription": {
+      "cost": 5000,
+      "currency": "ARS"
+    },
+    "gym": {
+      "cost": 62500,
+      "currency": "ARS"
+    },
+    "monthly_rent_share": {
+      "cost": 436875,
+      "currency": "ARS"
+    },
+    "effective_tax_rate_percentage": 41.27,
+    "cost_of_living_city_index": 272346.41
+  },
+  {
+    "country": "Australia",
+    "city": "Brisbane",
+    "oat_latte": {
+      "cost": 6.7,
+      "currency": "AUD"
+    },
+    "nice_dinner": {
+      "cost": 106,
+      "currency": "AUD"
+    },
+    "lime_bike": {
+      "cost": 5.25,
+      "currency": "AUD",
+      "name_of_equivalent": "Neuron e-bike"
+    },
+    "metro_ride": {
+      "cost": 4.13,
+      "currency": "AUD",
+      "name_of_equivalent": "TransLink go card journey"
+    },
+    "phv_ride": {
+      "cost": 50,
+      "currency": "AUD"
+    },
+    "food_delivery": {
+      "cost": 33.25,
+      "currency": "AUD"
+    },
+    "music_subscription": {
+      "cost": 13.99,
+      "currency": "AUD"
+    },
+    "gym": {
+      "cost": 90,
+      "currency": "AUD"
+    },
+    "monthly_rent_share": {
+      "cost": 1403.13,
+      "currency": "AUD"
+    },
+    "effective_tax_rate_percentage": 33.73,
+    "cost_of_living_city_index": 865.1
+  },
+  {
+    "country": "Australia",
+    "city": "Melbourne",
+    "oat_latte": {
+      "cost": 6.7,
+      "currency": "AUD"
+    },
+    "nice_dinner": {
+      "cost": 129.5,
+      "currency": "AUD"
+    },
+    "lime_bike": {
+      "cost": 5.3,
+      "currency": "AUD"
+    },
+    "metro_ride": {
+      "cost": 5.43,
+      "currency": "AUD",
+      "name_of_equivalent": "myki 2-hour fare"
+    },
+    "phv_ride": {
+      "cost": 49.25,
+      "currency": "AUD"
+    },
+    "food_delivery": {
+      "cost": 33.25,
+      "currency": "AUD"
+    },
+    "music_subscription": {
+      "cost": 13.74,
+      "currency": "AUD"
+    },
+    "gym": {
+      "cost": 128,
+      "currency": "AUD"
+    },
+    "monthly_rent_share": {
+      "cost": 1256.25,
+      "currency": "AUD"
+    },
+    "effective_tax_rate_percentage": 32.28,
+    "cost_of_living_city_index": 782.03
+  },
+  {
+    "country": "Australia",
+    "city": "Sydney",
+    "oat_latte": {
+      "cost": 6.8,
+      "currency": "AUD"
+    },
+    "nice_dinner": {
+      "cost": 124,
+      "currency": "AUD"
+    },
+    "lime_bike": {
+      "cost": 5.5,
+      "currency": "AUD"
+    },
+    "metro_ride": {
+      "cost": 3.75,
+      "currency": "AUD"
+    },
+    "phv_ride": {
+      "cost": 56,
+      "currency": "AUD"
+    },
+    "food_delivery": {
+      "cost": 34,
+      "currency": "AUD"
+    },
+    "music_subscription": {
+      "cost": 13.99,
+      "currency": "AUD"
+    },
+    "gym": {
+      "cost": 84.25,
+      "currency": "AUD"
+    },
+    "monthly_rent_share": {
+      "cost": 1746.88,
+      "currency": "AUD"
+    },
+    "effective_tax_rate_percentage": 32.89,
+    "cost_of_living_city_index": 1074.04
+  },
+  {
+    "country": "Austria",
+    "city": "Vienna",
+    "oat_latte": {
+      "cost": 4.9,
+      "currency": "EUR"
+    },
+    "nice_dinner": {
+      "cost": 62,
+      "currency": "EUR"
+    },
+    "lime_bike": {
+      "cost": 3,
+      "currency": "EUR",
+      "name_of_equivalent": "Lime e-scooter"
+    },
+    "metro_ride": {
+      "cost": 2.4,
+      "currency": "EUR"
+    },
+    "phv_ride": {
+      "cost": 23.25,
+      "currency": "EUR"
+    },
+    "food_delivery": {
+      "cost": 18.85,
+      "currency": "EUR"
+    },
+    "music_subscription": {
+      "cost": 10.99,
+      "currency": "EUR"
+    },
+    "gym": {
+      "cost": 76,
+      "currency": "EUR"
+    },
+    "monthly_rent_share": {
+      "cost": 687.5,
+      "currency": "EUR"
+    },
+    "effective_tax_rate_percentage": 37.65,
+    "cost_of_living_city_index": 426.92
+  },
+  {
+    "country": "Belgium",
+    "city": "Brussels",
+    "oat_latte": {
+      "cost": 4.9,
+      "currency": "EUR"
+    },
+    "nice_dinner": {
+      "cost": 72,
+      "currency": "EUR"
+    },
+    "lime_bike": {
+      "cost": 3.25,
+      "currency": "EUR"
+    },
+    "metro_ride": {
+      "cost": 1.79,
+      "currency": "EUR",
+      "name_of_equivalent": "STIB/MIVB ride"
+    },
+    "phv_ride": {
+      "cost": 28.25,
+      "currency": "EUR",
+      "name_of_equivalent": "Bolt ride"
+    },
+    "food_delivery": {
+      "cost": 24,
+      "currency": "EUR"
+    },
+    "music_subscription": {
+      "cost": 11.49,
+      "currency": "EUR"
+    },
+    "gym": {
+      "cost": 92,
+      "currency": "EUR"
+    },
+    "monthly_rent_share": {
+      "cost": 656.25,
+      "currency": "EUR"
+    },
+    "effective_tax_rate_percentage": 49.44,
+    "cost_of_living_city_index": 410.66
+  },
+  {
+    "country": "Brazil",
+    "city": "Rio de Janeiro",
+    "oat_latte": {
+      "cost": 22,
+      "currency": "BRL"
+    },
+    "nice_dinner": {
+      "cost": 270,
+      "currency": "BRL"
+    },
+    "lime_bike": {
+      "cost": 7.5,
+      "currency": "BRL",
+      "name_of_equivalent": "Tembici"
+    },
+    "metro_ride": {
+      "cost": 7,
+      "currency": "BRL"
+    },
+    "phv_ride": {
+      "cost": 64,
+      "currency": "BRL"
+    },
+    "food_delivery": {
+      "cost": 61.5,
+      "currency": "BRL",
+      "name_of_equivalent": "iFood"
+    },
+    "music_subscription": {
+      "cost": 23.4,
+      "currency": "BRL"
+    },
+    "gym": {
+      "cost": 412.5,
+      "currency": "BRL"
+    },
+    "monthly_rent_share": {
+      "cost": 2406.25,
+      "currency": "BRL"
+    },
+    "effective_tax_rate_percentage": 26.67,
+    "cost_of_living_city_index": 1507.13
+  },
+  {
+    "country": "Brazil",
+    "city": "São Paulo",
+    "oat_latte": {
+      "cost": 21.5,
+      "currency": "BRL"
+    },
+    "nice_dinner": {
+      "cost": 240,
+      "currency": "BRL"
+    },
+    "lime_bike": {
+      "cost": 8.15,
+      "currency": "BRL",
+      "name_of_equivalent": "Tembici"
+    },
+    "metro_ride": {
+      "cost": 4.7,
+      "currency": "BRL"
+    },
+    "phv_ride": {
+      "cost": 52,
+      "currency": "BRL"
+    },
+    "food_delivery": {
+      "cost": 61.5,
+      "currency": "BRL",
+      "name_of_equivalent": "iFood"
+    },
+    "music_subscription": {
+      "cost": 21.7,
+      "currency": "BRL"
+    },
+    "gym": {
+      "cost": 337.5,
+      "currency": "BRL"
+    },
+    "monthly_rent_share": {
+      "cost": 2425,
+      "currency": "BRL"
+    },
+    "effective_tax_rate_percentage": 26.67,
+    "cost_of_living_city_index": 1510.41
+  },
+  {
+    "country": "Canada",
+    "city": "Montreal",
+    "oat_latte": {
+      "cost": 6.7,
+      "currency": "CAD"
+    },
+    "nice_dinner": {
+      "cost": 116.25,
+      "currency": "CAD"
+    },
+    "lime_bike": {
+      "cost": 3.75,
+      "currency": "CAD",
+      "name_of_equivalent": "BIXI"
+    },
+    "metro_ride": {
+      "cost": 3.43,
+      "currency": "CAD",
+      "name_of_equivalent": "STM Métro"
+    },
+    "phv_ride": {
+      "cost": 38.75,
+      "currency": "CAD"
+    },
+    "food_delivery": {
+      "cost": 35.7,
+      "currency": "CAD"
+    },
+    "music_subscription": {
+      "cost": 11.84,
+      "currency": "CAD"
+    },
+    "gym": {
+      "cost": 97.25,
+      "currency": "CAD"
+    },
+    "monthly_rent_share": {
+      "cost": 1100,
+      "currency": "CAD"
+    },
+    "effective_tax_rate_percentage": 38.97,
+    "cost_of_living_city_index": 684.71
+  },
+  {
+    "country": "Canada",
+    "city": "Toronto",
+    "oat_latte": {
+      "cost": 6.7,
+      "currency": "CAD"
+    },
+    "nice_dinner": {
+      "cost": 124,
+      "currency": "CAD"
+    },
+    "lime_bike": {
+      "cost": 4.88,
+      "currency": "CAD",
+      "name_of_equivalent": "Lime e-bike"
+    },
+    "metro_ride": {
+      "cost": 3.35,
+      "currency": "CAD",
+      "name_of_equivalent": "TTC subway"
+    },
+    "phv_ride": {
+      "cost": 38.75,
+      "currency": "CAD"
+    },
+    "food_delivery": {
+      "cost": 35.2,
+      "currency": "CAD"
+    },
+    "music_subscription": {
+      "cost": 11.69,
+      "currency": "CAD"
+    },
+    "gym": {
+      "cost": 118,
+      "currency": "CAD"
+    },
+    "monthly_rent_share": {
+      "cost": 1450,
+      "currency": "CAD"
+    },
+    "effective_tax_rate_percentage": 36,
+    "cost_of_living_city_index": 896.71
+  },
+  {
+    "country": "Canada",
+    "city": "Vancouver",
+    "oat_latte": {
+      "cost": 6.7,
+      "currency": "CAD"
+    },
+    "nice_dinner": {
+      "cost": 103,
+      "currency": "CAD"
+    },
+    "lime_bike": {
+      "cost": 5.25,
+      "currency": "CAD"
+    },
+    "metro_ride": {
+      "cost": 3.64,
+      "currency": "CAD",
+      "name_of_equivalent": "SkyTrain"
+    },
+    "phv_ride": {
+      "cost": 38.75,
+      "currency": "CAD"
+    },
+    "food_delivery": {
+      "cost": 33.25,
+      "currency": "CAD"
+    },
+    "music_subscription": {
+      "cost": 11.99,
+      "currency": "CAD"
+    },
+    "gym": {
+      "cost": 102,
+      "currency": "CAD"
+    },
+    "monthly_rent_share": {
+      "cost": 1612.5,
+      "currency": "CAD"
+    },
+    "effective_tax_rate_percentage": 33.16,
+    "cost_of_living_city_index": 990.36
+  },
+  {
+    "country": "Canada",
+    "city": "Waterloo",
+    "oat_latte": {
+      "cost": 6.7,
+      "currency": "CAD"
+    },
+    "nice_dinner": {
+      "cost": 74,
+      "currency": "CAD"
+    },
+    "lime_bike": {
+      "cost": 4.75,
+      "currency": "CAD",
+      "name_of_equivalent": "e-scooter rental"
+    },
+    "metro_ride": {
+      "cost": 3.3,
+      "currency": "CAD",
+      "name_of_equivalent": "ION LRT ride"
+    },
+    "phv_ride": {
+      "cost": 36,
+      "currency": "CAD"
+    },
+    "food_delivery": {
+      "cost": 29.15,
+      "currency": "CAD"
+    },
+    "music_subscription": {
+      "cost": 11.99,
+      "currency": "CAD"
+    },
+    "gym": {
+      "cost": 72.75,
+      "currency": "CAD"
+    },
+    "monthly_rent_share": {
+      "cost": 1185,
+      "currency": "CAD"
+    },
+    "effective_tax_rate_percentage": 36.5,
+    "cost_of_living_city_index": 728.07
+  },
+  {
+    "country": "Chile",
+    "city": "Santiago",
+    "oat_latte": {
+      "cost": 4700,
+      "currency": "CLP"
+    },
+    "nice_dinner": {
+      "cost": 40000,
+      "currency": "CLP"
+    },
+    "lime_bike": {
+      "cost": 1750,
+      "currency": "CLP",
+      "name_of_equivalent": "Tembici / e-scooter"
+    },
+    "metro_ride": {
+      "cost": 716,
+      "currency": "CLP"
+    },
+    "phv_ride": {
+      "cost": 8850,
+      "currency": "CLP"
+    },
+    "food_delivery": {
+      "cost": 12200,
+      "currency": "CLP",
+      "name_of_equivalent": "Rappi"
+    },
+    "music_subscription": {
+      "cost": 4190,
+      "currency": "CLP"
+    },
+    "gym": {
+      "cost": 53000,
+      "currency": "CLP"
+    },
+    "monthly_rent_share": {
+      "cost": 362500,
+      "currency": "CLP"
+    },
+    "effective_tax_rate_percentage": 20,
+    "cost_of_living_city_index": 226766.28
+  },
+  {
+    "country": "China",
+    "city": "Beijing",
+    "oat_latte": {
+      "cost": 41,
+      "currency": "CNY"
+    },
+    "nice_dinner": {
+      "cost": 365,
+      "currency": "CNY"
+    },
+    "lime_bike": {
+      "cost": 2.25,
+      "currency": "CNY",
+      "name_of_equivalent": "Meituan Bike"
+    },
+    "metro_ride": {
+      "cost": 5.5,
+      "currency": "CNY"
+    },
+    "phv_ride": {
+      "cost": 67.5,
+      "currency": "CNY",
+      "name_of_equivalent": "Didi"
+    },
+    "food_delivery": {
+      "cost": 61,
+      "currency": "CNY",
+      "name_of_equivalent": "Meituan"
+    },
+    "music_subscription": {
+      "cost": 24,
+      "currency": "CNY",
+      "name_of_equivalent": "NetEase Cloud Music"
+    },
+    "gym": {
+      "cost": 760,
+      "currency": "CNY"
+    },
+    "monthly_rent_share": {
+      "cost": 5406.25,
+      "currency": "CNY"
+    },
+    "effective_tax_rate_percentage": 28.55,
+    "cost_of_living_city_index": 3336.13
+  },
+  {
+    "country": "China",
+    "city": "Chengdu",
+    "oat_latte": {
+      "cost": 37.1,
+      "currency": "CNY"
+    },
+    "nice_dinner": {
+      "cost": 260,
+      "currency": "CNY"
+    },
+    "lime_bike": {
+      "cost": 2.25,
+      "currency": "CNY",
+      "name_of_equivalent": "Meituan Bike"
+    },
+    "metro_ride": {
+      "cost": 3.5,
+      "currency": "CNY"
+    },
+    "phv_ride": {
+      "cost": 43,
+      "currency": "CNY",
+      "name_of_equivalent": "Didi"
+    },
+    "food_delivery": {
+      "cost": 51.25,
+      "currency": "CNY",
+      "name_of_equivalent": "Meituan Waimai"
+    },
+    "music_subscription": {
+      "cost": 15.9,
+      "currency": "CNY",
+      "name_of_equivalent": "QQ Music"
+    },
+    "gym": {
+      "cost": 510,
+      "currency": "CNY"
+    },
+    "monthly_rent_share": {
+      "cost": 2437.5,
+      "currency": "CNY"
+    },
+    "effective_tax_rate_percentage": 24.55,
+    "cost_of_living_city_index": 1527.59
+  },
+  {
+    "country": "China",
+    "city": "Guangzhou",
+    "oat_latte": {
+      "cost": 38.2,
+      "currency": "CNY"
+    },
+    "nice_dinner": {
+      "cost": 350,
+      "currency": "CNY"
+    },
+    "lime_bike": {
+      "cost": 2.5,
+      "currency": "CNY",
+      "name_of_equivalent": "Meituan Bike"
+    },
+    "metro_ride": {
+      "cost": 5,
+      "currency": "CNY"
+    },
+    "phv_ride": {
+      "cost": 59.75,
+      "currency": "CNY",
+      "name_of_equivalent": "Didi"
+    },
+    "food_delivery": {
+      "cost": 53,
+      "currency": "CNY",
+      "name_of_equivalent": "Meituan"
+    },
+    "music_subscription": {
+      "cost": 16.75,
+      "currency": "CNY",
+      "name_of_equivalent": "NetEase Cloud Music"
+    },
+    "gym": {
+      "cost": 600,
+      "currency": "CNY"
+    },
+    "monthly_rent_share": {
+      "cost": 3125,
+      "currency": "CNY"
+    },
+    "effective_tax_rate_percentage": 26.17,
+    "cost_of_living_city_index": 1957.88
+  },
+  {
+    "country": "China",
+    "city": "Hangzhou",
+    "oat_latte": {
+      "cost": 40,
+      "currency": "CNY"
+    },
+    "nice_dinner": {
+      "cost": 270,
+      "currency": "CNY"
+    },
+    "lime_bike": {
+      "cost": 2.25,
+      "currency": "CNY",
+      "name_of_equivalent": "Hellobike"
+    },
+    "metro_ride": {
+      "cost": 4.5,
+      "currency": "CNY"
+    },
+    "phv_ride": {
+      "cost": 62,
+      "currency": "CNY",
+      "name_of_equivalent": "Didi"
+    },
+    "food_delivery": {
+      "cost": 54.5,
+      "currency": "CNY",
+      "name_of_equivalent": "Meituan"
+    },
+    "music_subscription": {
+      "cost": 25.5,
+      "currency": "CNY",
+      "name_of_equivalent": "NetEase Cloud Music"
+    },
+    "gym": {
+      "cost": 650,
+      "currency": "CNY"
+    },
+    "monthly_rent_share": {
+      "cost": 3781.25,
+      "currency": "CNY"
+    },
+    "effective_tax_rate_percentage": 32.86,
+    "cost_of_living_city_index": 2342
+  },
+  {
+    "country": "China",
+    "city": "Shanghai",
+    "oat_latte": {
+      "cost": 37.65,
+      "currency": "CNY"
+    },
+    "nice_dinner": {
+      "cost": 380,
+      "currency": "CNY"
+    },
+    "lime_bike": {
+      "cost": 2.3,
+      "currency": "CNY",
+      "name_of_equivalent": "Meituan Bike"
+    },
+    "metro_ride": {
+      "cost": 5,
+      "currency": "CNY"
+    },
+    "phv_ride": {
+      "cost": 88.5,
+      "currency": "CNY",
+      "name_of_equivalent": "Didi"
+    },
+    "food_delivery": {
+      "cost": 61,
+      "currency": "CNY",
+      "name_of_equivalent": "Meituan Waimai"
+    },
+    "music_subscription": {
+      "cost": 14.5,
+      "currency": "CNY",
+      "name_of_equivalent": "Apple Music"
+    },
+    "gym": {
+      "cost": 1150,
+      "currency": "CNY"
+    },
+    "monthly_rent_share": {
+      "cost": 7200,
+      "currency": "CNY"
+    },
+    "effective_tax_rate_percentage": 28,
+    "cost_of_living_city_index": 4430.49
+  },
+  {
+    "country": "China",
+    "city": "Shenzhen",
+    "oat_latte": {
+      "cost": 37.35,
+      "currency": "CNY"
+    },
+    "nice_dinner": {
+      "cost": 350,
+      "currency": "CNY"
+    },
+    "lime_bike": {
+      "cost": 2.1,
+      "currency": "CNY",
+      "name_of_equivalent": "Meituan Bike"
+    },
+    "metro_ride": {
+      "cost": 4.5,
+      "currency": "CNY"
+    },
+    "phv_ride": {
+      "cost": 57.5,
+      "currency": "CNY",
+      "name_of_equivalent": "Didi"
+    },
+    "food_delivery": {
+      "cost": 53,
+      "currency": "CNY",
+      "name_of_equivalent": "Meituan"
+    },
+    "music_subscription": {
+      "cost": 14,
+      "currency": "CNY",
+      "name_of_equivalent": "QQ Music"
+    },
+    "gym": {
+      "cost": 600,
+      "currency": "CNY"
+    },
+    "monthly_rent_share": {
+      "cost": 4625,
+      "currency": "CNY"
+    },
+    "effective_tax_rate_percentage": 25.4,
+    "cost_of_living_city_index": 2857.69
+  },
+  {
+    "country": "Colombia",
+    "city": "Bogotá",
+    "oat_latte": {
+      "cost": 15720,
+      "currency": "COP"
+    },
+    "nice_dinner": {
+      "cost": 121750,
+      "currency": "COP"
+    },
+    "lime_bike": {
+      "cost": 4500,
+      "currency": "COP",
+      "name_of_equivalent": "Tembici"
+    },
+    "metro_ride": {
+      "cost": 2875,
+      "currency": "COP",
+      "name_of_equivalent": "TransMilenio"
+    },
+    "phv_ride": {
+      "cost": 25000,
+      "currency": "COP"
+    },
+    "food_delivery": {
+      "cost": 45000,
+      "currency": "COP",
+      "name_of_equivalent": "Rappi"
+    },
+    "music_subscription": {
+      "cost": 17600,
+      "currency": "COP"
+    },
+    "gym": {
+      "cost": 225000,
+      "currency": "COP",
+      "name_of_equivalent": "Bodytech"
+    },
+    "monthly_rent_share": {
+      "cost": 2137500,
+      "currency": "COP"
+    },
+    "effective_tax_rate_percentage": 21.21,
+    "cost_of_living_city_index": 1313671.75
+  },
+  {
+    "country": "Czech Republic",
+    "city": "Prague",
+    "oat_latte": {
+      "cost": 122,
+      "currency": "CZK"
+    },
+    "nice_dinner": {
+      "cost": 1350,
+      "currency": "CZK"
+    },
+    "lime_bike": {
+      "cost": 62.5,
+      "currency": "CZK",
+      "name_of_equivalent": "Lime e-scooter"
+    },
+    "metro_ride": {
+      "cost": 32,
+      "currency": "CZK"
+    },
+    "phv_ride": {
+      "cost": 365,
+      "currency": "CZK"
+    },
+    "food_delivery": {
+      "cost": 340,
+      "currency": "CZK",
+      "name_of_equivalent": "Wolt"
+    },
+    "music_subscription": {
+      "cost": 167,
+      "currency": "CZK"
+    },
+    "gym": {
+      "cost": 1980,
+      "currency": "CZK"
+    },
+    "monthly_rent_share": {
+      "cost": 17187.5,
+      "currency": "CZK"
+    },
+    "effective_tax_rate_percentage": 25,
+    "cost_of_living_city_index": 10631.03
+  },
+  {
+    "country": "Denmark",
+    "city": "Copenhagen",
+    "oat_latte": {
+      "cost": 54,
+      "currency": "DKK"
+    },
+    "nice_dinner": {
+      "cost": 620,
+      "currency": "DKK"
+    },
+    "lime_bike": {
+      "cost": 32.5,
+      "currency": "DKK"
+    },
+    "metro_ride": {
+      "cost": 18,
+      "currency": "DKK"
+    },
+    "phv_ride": {
+      "cost": 300,
+      "currency": "DKK"
+    },
+    "food_delivery": {
+      "cost": 205,
+      "currency": "DKK",
+      "name_of_equivalent": "Wolt"
+    },
+    "music_subscription": {
+      "cost": 77,
+      "currency": "DKK"
+    },
+    "gym": {
+      "cost": 480,
+      "currency": "DKK"
+    },
+    "monthly_rent_share": {
+      "cost": 7950,
+      "currency": "DKK"
+    },
+    "effective_tax_rate_percentage": 43.16,
+    "cost_of_living_city_index": 4905.16
+  },
+  {
+    "country": "Egypt",
+    "city": "Cairo",
+    "oat_latte": {
+      "cost": 168.5,
+      "currency": "EGP"
+    },
+    "nice_dinner": {
+      "cost": 1520,
+      "currency": "EGP"
+    },
+    "lime_bike": {
+      "cost": 35,
+      "currency": "EGP",
+      "name_of_equivalent": "Uber Moto ride"
+    },
+    "metro_ride": {
+      "cost": 9.6,
+      "currency": "EGP"
+    },
+    "phv_ride": {
+      "cost": 228,
+      "currency": "EGP"
+    },
+    "food_delivery": {
+      "cost": 370,
+      "currency": "EGP"
+    },
+    "music_subscription": {
+      "cost": 57.5,
+      "currency": "EGP"
+    },
+    "gym": {
+      "cost": 2900,
+      "currency": "EGP"
+    },
+    "monthly_rent_share": {
+      "cost": 14687.5,
+      "currency": "EGP"
+    },
+    "effective_tax_rate_percentage": 25,
+    "cost_of_living_city_index": 9189.05
+  },
+  {
+    "country": "Estonia",
+    "city": "Tallinn",
+    "oat_latte": {
+      "cost": 4.8,
+      "currency": "EUR"
+    },
+    "nice_dinner": {
+      "cost": 53,
+      "currency": "EUR"
+    },
+    "lime_bike": {
+      "cost": 2.83,
+      "currency": "EUR",
+      "name_of_equivalent": "Bolt scooter"
+    },
+    "metro_ride": {
+      "cost": 0.2,
+      "currency": "EUR",
+      "name_of_equivalent": "Tram/bus"
+    },
+    "phv_ride": {
+      "cost": 13,
+      "currency": "EUR",
+      "name_of_equivalent": "Bolt"
+    },
+    "food_delivery": {
+      "cost": 16.8,
+      "currency": "EUR",
+      "name_of_equivalent": "Wolt"
+    },
+    "music_subscription": {
+      "cost": 10.49,
+      "currency": "EUR"
+    },
+    "gym": {
+      "cost": 66,
+      "currency": "EUR"
+    },
+    "monthly_rent_share": {
+      "cost": 587.5,
+      "currency": "EUR"
+    },
+    "effective_tax_rate_percentage": 22.93,
+    "cost_of_living_city_index": 364.69
+  },
+  {
+    "country": "Finland",
+    "city": "Helsinki",
+    "oat_latte": {
+      "cost": 5.7,
+      "currency": "EUR"
+    },
+    "nice_dinner": {
+      "cost": 72,
+      "currency": "EUR"
+    },
+    "lime_bike": {
+      "cost": 3.5,
+      "currency": "EUR",
+      "name_of_equivalent": "Tier e-scooter"
+    },
+    "metro_ride": {
+      "cost": 3.35,
+      "currency": "EUR"
+    },
+    "phv_ride": {
+      "cost": 35,
+      "currency": "EUR"
+    },
+    "food_delivery": {
+      "cost": 23.5,
+      "currency": "EUR",
+      "name_of_equivalent": "Wolt"
+    },
+    "music_subscription": {
+      "cost": 11.69,
+      "currency": "EUR"
+    },
+    "gym": {
+      "cost": 63,
+      "currency": "EUR"
+    },
+    "monthly_rent_share": {
+      "cost": 856.25,
+      "currency": "EUR"
+    },
+    "effective_tax_rate_percentage": 40.24,
+    "cost_of_living_city_index": 529.78
+  },
+  {
+    "country": "France",
+    "city": "Paris",
+    "oat_latte": {
+      "cost": 6.13,
+      "currency": "EUR"
+    },
+    "nice_dinner": {
+      "cost": 69.75,
+      "currency": "EUR"
+    },
+    "lime_bike": {
+      "cost": 3.5,
+      "currency": "EUR"
+    },
+    "metro_ride": {
+      "cost": 1.84,
+      "currency": "EUR"
+    },
+    "phv_ride": {
+      "cost": 31,
+      "currency": "EUR"
+    },
+    "food_delivery": {
+      "cost": 24,
+      "currency": "EUR"
+    },
+    "music_subscription": {
+      "cost": 10.99,
+      "currency": "EUR"
+    },
+    "gym": {
+      "cost": 99,
+      "currency": "EUR"
+    },
+    "monthly_rent_share": {
+      "cost": 1042.5,
+      "currency": "EUR"
+    },
+    "effective_tax_rate_percentage": 37.14,
+    "cost_of_living_city_index": 642.5
+  },
+  {
+    "country": "Germany",
+    "city": "Berlin",
+    "oat_latte": {
+      "cost": 4.9,
+      "currency": "EUR"
+    },
+    "nice_dinner": {
+      "cost": 72,
+      "currency": "EUR"
+    },
+    "lime_bike": {
+      "cost": 3.25,
+      "currency": "EUR"
+    },
+    "metro_ride": {
+      "cost": 3.28,
+      "currency": "EUR"
+    },
+    "phv_ride": {
+      "cost": 27.35,
+      "currency": "EUR",
+      "name_of_equivalent": "FreeNow"
+    },
+    "food_delivery": {
+      "cost": 21,
+      "currency": "EUR",
+      "name_of_equivalent": "Wolt"
+    },
+    "music_subscription": {
+      "cost": 10.99,
+      "currency": "EUR"
+    },
+    "gym": {
+      "cost": 67.5,
+      "currency": "EUR"
+    },
+    "monthly_rent_share": {
+      "cost": 905,
+      "currency": "EUR"
+    },
+    "effective_tax_rate_percentage": 42.4,
+    "cost_of_living_city_index": 558.82
+  },
+  {
+    "country": "Germany",
+    "city": "Frankfurt",
+    "oat_latte": {
+      "cost": 4.9,
+      "currency": "EUR"
+    },
+    "nice_dinner": {
+      "cost": 69.75,
+      "currency": "EUR"
+    },
+    "lime_bike": {
+      "cost": 3,
+      "currency": "EUR"
+    },
+    "metro_ride": {
+      "cost": 2.98,
+      "currency": "EUR"
+    },
+    "phv_ride": {
+      "cost": 33.75,
+      "currency": "EUR"
+    },
+    "food_delivery": {
+      "cost": 22.6,
+      "currency": "EUR"
+    },
+    "music_subscription": {
+      "cost": 11.39,
+      "currency": "EUR"
+    },
+    "gym": {
+      "cost": 82.5,
+      "currency": "EUR"
+    },
+    "monthly_rent_share": {
+      "cost": 943.75,
+      "currency": "EUR"
+    },
+    "effective_tax_rate_percentage": 42.22,
+    "cost_of_living_city_index": 582.58
+  },
+  {
+    "country": "Germany",
+    "city": "Hamburg",
+    "oat_latte": {
+      "cost": 4.9,
+      "currency": "EUR"
+    },
+    "nice_dinner": {
+      "cost": 69.75,
+      "currency": "EUR"
+    },
+    "lime_bike": {
+      "cost": 3.25,
+      "currency": "EUR"
+    },
+    "metro_ride": {
+      "cost": 3.23,
+      "currency": "EUR",
+      "name_of_equivalent": "HVV Einzelfahrkarte"
+    },
+    "phv_ride": {
+      "cost": 33.75,
+      "currency": "EUR",
+      "name_of_equivalent": "FreeNow"
+    },
+    "food_delivery": {
+      "cost": 20.5,
+      "currency": "EUR",
+      "name_of_equivalent": "Lieferando"
+    },
+    "music_subscription": {
+      "cost": 10.99,
+      "currency": "EUR"
+    },
+    "gym": {
+      "cost": 72.5,
+      "currency": "EUR"
+    },
+    "monthly_rent_share": {
+      "cost": 731.25,
+      "currency": "EUR"
+    },
+    "effective_tax_rate_percentage": 41.6,
+    "cost_of_living_city_index": 454.6
+  },
+  {
+    "country": "Germany",
+    "city": "Munich",
+    "oat_latte": {
+      "cost": 5.58,
+      "currency": "EUR"
+    },
+    "nice_dinner": {
+      "cost": 80,
+      "currency": "EUR"
+    },
+    "lime_bike": {
+      "cost": 3.18,
+      "currency": "EUR",
+      "name_of_equivalent": "TIER e-scooter"
+    },
+    "metro_ride": {
+      "cost": 3.34,
+      "currency": "EUR"
+    },
+    "phv_ride": {
+      "cost": 36.5,
+      "currency": "EUR",
+      "name_of_equivalent": "FREE NOW"
+    },
+    "food_delivery": {
+      "cost": 22.15,
+      "currency": "EUR",
+      "name_of_equivalent": "Wolt"
+    },
+    "music_subscription": {
+      "cost": 10.99,
+      "currency": "EUR"
+    },
+    "gym": {
+      "cost": 92,
+      "currency": "EUR"
+    },
+    "monthly_rent_share": {
+      "cost": 956.25,
+      "currency": "EUR"
+    },
+    "effective_tax_rate_percentage": 42.22,
+    "cost_of_living_city_index": 592.11
+  },
+  {
+    "country": "Greece",
+    "city": "Athens",
+    "oat_latte": {
+      "cost": 5.1,
+      "currency": "EUR"
+    },
+    "nice_dinner": {
+      "cost": 51.5,
+      "currency": "EUR"
+    },
+    "lime_bike": {
+      "cost": 3.18,
+      "currency": "EUR",
+      "name_of_equivalent": "Lime e-scooter"
+    },
+    "metro_ride": {
+      "cost": 1.4,
+      "currency": "EUR"
+    },
+    "phv_ride": {
+      "cost": 18.5,
+      "currency": "EUR",
+      "name_of_equivalent": "FREE NOW"
+    },
+    "food_delivery": {
+      "cost": 16.8,
+      "currency": "EUR",
+      "name_of_equivalent": "Wolt"
+    },
+    "music_subscription": {
+      "cost": 10.49,
+      "currency": "EUR"
+    },
+    "gym": {
+      "cost": 74.25,
+      "currency": "EUR"
+    },
+    "monthly_rent_share": {
+      "cost": 606.25,
+      "currency": "EUR"
+    },
+    "effective_tax_rate_percentage": 42.78,
+    "cost_of_living_city_index": 376.27
+  },
+  {
+    "country": "Hong Kong",
+    "city": "Hong Kong",
+    "oat_latte": {
+      "cost": 56,
+      "currency": "HKD"
+    },
+    "nice_dinner": {
+      "cost": 600,
+      "currency": "HKD"
+    },
+    "lime_bike": {
+      "cost": 8.5,
+      "currency": "HKD",
+      "name_of_equivalent": "Green minibus"
+    },
+    "metro_ride": {
+      "cost": 13,
+      "currency": "HKD"
+    },
+    "phv_ride": {
+      "cost": 197,
+      "currency": "HKD"
+    },
+    "food_delivery": {
+      "cost": 148,
+      "currency": "HKD"
+    },
+    "music_subscription": {
+      "cost": 58,
+      "currency": "HKD"
+    },
+    "gym": {
+      "cost": 1230,
+      "currency": "HKD"
+    },
+    "monthly_rent_share": {
+      "cost": 14825,
+      "currency": "HKD"
+    },
+    "effective_tax_rate_percentage": 15.21,
+    "cost_of_living_city_index": 9050.64
+  },
+  {
+    "country": "Hungary",
+    "city": "Budapest",
+    "oat_latte": {
+      "cost": 1560,
+      "currency": "HUF"
+    },
+    "nice_dinner": {
+      "cost": 19800,
+      "currency": "HUF"
+    },
+    "lime_bike": {
+      "cost": 850,
+      "currency": "HUF",
+      "name_of_equivalent": "Lime scooter"
+    },
+    "metro_ride": {
+      "cost": 439,
+      "currency": "HUF"
+    },
+    "phv_ride": {
+      "cost": 6200,
+      "currency": "HUF",
+      "name_of_equivalent": "Bolt"
+    },
+    "food_delivery": {
+      "cost": 5150,
+      "currency": "HUF",
+      "name_of_equivalent": "Wolt"
+    },
+    "music_subscription": {
+      "cost": 2440,
+      "currency": "HUF"
+    },
+    "gym": {
+      "cost": 32000,
+      "currency": "HUF"
+    },
+    "monthly_rent_share": {
+      "cost": 171875,
+      "currency": "HUF"
+    },
+    "effective_tax_rate_percentage": 33.5,
+    "cost_of_living_city_index": 107932.47
+  },
+  {
+    "country": "India",
+    "city": "Bangalore",
+    "oat_latte": {
+      "cost": 382,
+      "currency": "INR"
+    },
+    "nice_dinner": {
+      "cost": 3000,
+      "currency": "INR"
+    },
+    "lime_bike": {
+      "cost": 30.75,
+      "currency": "INR",
+      "name_of_equivalent": "Yulu"
+    },
+    "metro_ride": {
+      "cost": 32.5,
+      "currency": "INR",
+      "name_of_equivalent": "Namma Metro"
+    },
+    "phv_ride": {
+      "cost": 440,
+      "currency": "INR",
+      "name_of_equivalent": "Ola/Uber"
+    },
+    "food_delivery": {
+      "cost": 515,
+      "currency": "INR",
+      "name_of_equivalent": "Swiggy/Zomato"
+    },
+    "music_subscription": {
+      "cost": 126.5,
+      "currency": "INR"
+    },
+    "gym": {
+      "cost": 3950,
+      "currency": "INR"
+    },
+    "monthly_rent_share": {
+      "cost": 21375,
+      "currency": "INR"
+    },
+    "effective_tax_rate_percentage": 26.92,
+    "cost_of_living_city_index": 13490.33
+  },
+  {
+    "country": "India",
+    "city": "Hyderabad",
+    "oat_latte": {
+      "cost": 332.5,
+      "currency": "INR"
+    },
+    "nice_dinner": {
+      "cost": 2700,
+      "currency": "INR"
+    },
+    "lime_bike": {
+      "cost": 45.25,
+      "currency": "INR",
+      "name_of_equivalent": "Rapido bike taxi"
+    },
+    "metro_ride": {
+      "cost": 35,
+      "currency": "INR"
+    },
+    "phv_ride": {
+      "cost": 365,
+      "currency": "INR"
+    },
+    "food_delivery": {
+      "cost": 487.5,
+      "currency": "INR",
+      "name_of_equivalent": "Swiggy/Zomato premium fast food meal"
+    },
+    "music_subscription": {
+      "cost": 118.5,
+      "currency": "INR"
+    },
+    "gym": {
+      "cost": 5750,
+      "currency": "INR"
+    },
+    "monthly_rent_share": {
+      "cost": 16250,
+      "currency": "INR"
+    },
+    "effective_tax_rate_percentage": 21.86,
+    "cost_of_living_city_index": 10436.85
+  },
+  {
+    "country": "India",
+    "city": "Mumbai",
+    "oat_latte": {
+      "cost": 390.5,
+      "currency": "INR"
+    },
+    "nice_dinner": {
+      "cost": 3500,
+      "currency": "INR"
+    },
+    "lime_bike": {
+      "cost": 40,
+      "currency": "INR",
+      "name_of_equivalent": "Yulu e-bike"
+    },
+    "metro_ride": {
+      "cost": 35,
+      "currency": "INR"
+    },
+    "phv_ride": {
+      "cost": 460,
+      "currency": "INR",
+      "name_of_equivalent": "Uber/Ola ride"
+    },
+    "food_delivery": {
+      "cost": 560,
+      "currency": "INR",
+      "name_of_equivalent": "Zomato/Swiggy delivery"
+    },
+    "music_subscription": {
+      "cost": 123,
+      "currency": "INR"
+    },
+    "gym": {
+      "cost": 6250,
+      "currency": "INR"
+    },
+    "monthly_rent_share": {
+      "cost": 37625,
+      "currency": "INR"
+    },
+    "effective_tax_rate_percentage": 23.89,
+    "cost_of_living_city_index": 23410.44
+  },
+  {
+    "country": "India",
+    "city": "New Delhi",
+    "oat_latte": {
+      "cost": 390.5,
+      "currency": "INR"
+    },
+    "nice_dinner": {
+      "cost": 3500,
+      "currency": "INR"
+    },
+    "lime_bike": {
+      "cost": 25,
+      "currency": "INR",
+      "name_of_equivalent": "Yulu bike"
+    },
+    "metro_ride": {
+      "cost": 35,
+      "currency": "INR"
+    },
+    "phv_ride": {
+      "cost": 417,
+      "currency": "INR"
+    },
+    "food_delivery": {
+      "cost": 500,
+      "currency": "INR",
+      "name_of_equivalent": "Zomato delivery"
+    },
+    "music_subscription": {
+      "cost": 124,
+      "currency": "INR"
+    },
+    "gym": {
+      "cost": 5800,
+      "currency": "INR"
+    },
+    "monthly_rent_share": {
+      "cost": 23437.5,
+      "currency": "INR"
+    },
+    "effective_tax_rate_percentage": 25.27,
+    "cost_of_living_city_index": 14875.81
+  },
+  {
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "oat_latte": {
+      "cost": 68000,
+      "currency": "IDR"
+    },
+    "nice_dinner": {
+      "cost": 520000,
+      "currency": "IDR"
+    },
+    "lime_bike": {
+      "cost": 14000,
+      "currency": "IDR",
+      "name_of_equivalent": "GoRide"
+    },
+    "metro_ride": {
+      "cost": 9500,
+      "currency": "IDR",
+      "name_of_equivalent": "MRT Jakarta"
+    },
+    "phv_ride": {
+      "cost": 90000,
+      "currency": "IDR",
+      "name_of_equivalent": "GrabCar"
+    },
+    "food_delivery": {
+      "cost": 84000,
+      "currency": "IDR",
+      "name_of_equivalent": "GrabFood"
+    },
+    "music_subscription": {
+      "cost": 58490,
+      "currency": "IDR"
+    },
+    "gym": {
+      "cost": 1140000,
+      "currency": "IDR"
+    },
+    "monthly_rent_share": {
+      "cost": 6150000,
+      "currency": "IDR"
+    },
+    "effective_tax_rate_percentage": 21,
+    "cost_of_living_city_index": 3824934.8
+  },
+  {
+    "country": "Ireland",
+    "city": "Dublin",
+    "oat_latte": {
+      "cost": 4.97,
+      "currency": "EUR"
+    },
+    "nice_dinner": {
+      "cost": 74,
+      "currency": "EUR"
+    },
+    "lime_bike": {
+      "cost": 2.75,
+      "currency": "EUR",
+      "name_of_equivalent": "Bleeper Bike"
+    },
+    "metro_ride": {
+      "cost": 2.07,
+      "currency": "EUR",
+      "name_of_equivalent": "Luas (tram)"
+    },
+    "phv_ride": {
+      "cost": 30.1,
+      "currency": "EUR",
+      "name_of_equivalent": "FreeNow / Bolt taxi"
+    },
+    "food_delivery": {
+      "cost": 23.2,
+      "currency": "EUR"
+    },
+    "music_subscription": {
+      "cost": 10.99,
+      "currency": "EUR"
+    },
+    "gym": {
+      "cost": 100.75,
+      "currency": "EUR"
+    },
+    "monthly_rent_share": {
+      "cost": 1307.5,
+      "currency": "EUR"
+    },
+    "effective_tax_rate_percentage": 39.48,
+    "cost_of_living_city_index": 802.07
+  },
+  {
+    "country": "Israel",
+    "city": "Tel Aviv",
+    "oat_latte": {
+      "cost": 24,
+      "currency": "ILS"
+    },
+    "nice_dinner": {
+      "cost": 330,
+      "currency": "ILS"
+    },
+    "lime_bike": {
+      "cost": 16,
+      "currency": "ILS",
+      "name_of_equivalent": "E-scooter"
+    },
+    "metro_ride": {
+      "cost": 5.92,
+      "currency": "ILS",
+      "name_of_equivalent": "Red Line light rail"
+    },
+    "phv_ride": {
+      "cost": 88,
+      "currency": "ILS",
+      "name_of_equivalent": "Gett"
+    },
+    "food_delivery": {
+      "cost": 94,
+      "currency": "ILS",
+      "name_of_equivalent": "Wolt"
+    },
+    "music_subscription": {
+      "cost": 25.7,
+      "currency": "ILS"
+    },
+    "gym": {
+      "cost": 430,
+      "currency": "ILS"
+    },
+    "monthly_rent_share": {
+      "cost": 4843.75,
+      "currency": "ILS"
+    },
+    "effective_tax_rate_percentage": 39.11,
+    "cost_of_living_city_index": 2981.72
+  },
+  {
+    "country": "Italy",
+    "city": "Milan",
+    "oat_latte": {
+      "cost": 5.1,
+      "currency": "EUR"
+    },
+    "nice_dinner": {
+      "cost": 77.5,
+      "currency": "EUR"
+    },
+    "lime_bike": {
+      "cost": 3.75,
+      "currency": "EUR"
+    },
+    "metro_ride": {
+      "cost": 2.2,
+      "currency": "EUR"
+    },
+    "phv_ride": {
+      "cost": 26,
+      "currency": "EUR"
+    },
+    "food_delivery": {
+      "cost": 21,
+      "currency": "EUR"
+    },
+    "music_subscription": {
+      "cost": 10.99,
+      "currency": "EUR"
+    },
+    "gym": {
+      "cost": 102,
+      "currency": "EUR"
+    },
+    "monthly_rent_share": {
+      "cost": 1025,
+      "currency": "EUR"
+    },
+    "effective_tax_rate_percentage": 43.16,
+    "cost_of_living_city_index": 632.98
+  },
+  {
+    "country": "Italy",
+    "city": "Rome",
+    "oat_latte": {
+      "cost": 5,
+      "currency": "EUR"
+    },
+    "nice_dinner": {
+      "cost": 69.75,
+      "currency": "EUR"
+    },
+    "lime_bike": {
+      "cost": 3.5,
+      "currency": "EUR"
+    },
+    "metro_ride": {
+      "cost": 1.5,
+      "currency": "EUR"
+    },
+    "phv_ride": {
+      "cost": 26,
+      "currency": "EUR",
+      "name_of_equivalent": "FreeNow / Uber (NCC)"
+    },
+    "food_delivery": {
+      "cost": 21,
+      "currency": "EUR"
+    },
+    "music_subscription": {
+      "cost": 10.99,
+      "currency": "EUR"
+    },
+    "gym": {
+      "cost": 95.5,
+      "currency": "EUR"
+    },
+    "monthly_rent_share": {
+      "cost": 900,
+      "currency": "EUR"
+    },
+    "effective_tax_rate_percentage": 42.35,
+    "cost_of_living_city_index": 556.52
+  },
+  {
+    "country": "Japan",
+    "city": "Osaka",
+    "oat_latte": {
+      "cost": 730,
+      "currency": "JPY"
+    },
+    "nice_dinner": {
+      "cost": 11850,
+      "currency": "JPY"
+    },
+    "lime_bike": {
+      "cost": 250,
+      "currency": "JPY",
+      "name_of_equivalent": "LUUP e-bike"
+    },
+    "metro_ride": {
+      "cost": 297.5,
+      "currency": "JPY"
+    },
+    "phv_ride": {
+      "cost": 4150,
+      "currency": "JPY",
+      "name_of_equivalent": "GO Taxi"
+    },
+    "food_delivery": {
+      "cost": 2100,
+      "currency": "JPY"
+    },
+    "music_subscription": {
+      "cost": 1010,
+      "currency": "JPY"
+    },
+    "gym": {
+      "cost": 14400,
+      "currency": "JPY"
+    },
+    "monthly_rent_share": {
+      "cost": 76875,
+      "currency": "JPY"
+    },
+    "effective_tax_rate_percentage": 30,
+    "cost_of_living_city_index": 48760.13
+  },
+  {
+    "country": "Japan",
+    "city": "Tokyo",
+    "oat_latte": {
+      "cost": 745,
+      "currency": "JPY"
+    },
+    "nice_dinner": {
+      "cost": 12200,
+      "currency": "JPY"
+    },
+    "lime_bike": {
+      "cost": 185,
+      "currency": "JPY",
+      "name_of_equivalent": "LUUP"
+    },
+    "metro_ride": {
+      "cost": 245,
+      "currency": "JPY"
+    },
+    "phv_ride": {
+      "cost": 4650,
+      "currency": "JPY",
+      "name_of_equivalent": "GO Taxi"
+    },
+    "food_delivery": {
+      "cost": 2150,
+      "currency": "JPY"
+    },
+    "music_subscription": {
+      "cost": 980,
+      "currency": "JPY"
+    },
+    "gym": {
+      "cost": 14800,
+      "currency": "JPY"
+    },
+    "monthly_rent_share": {
+      "cost": 135625,
+      "currency": "JPY"
+    },
+    "effective_tax_rate_percentage": 32,
+    "cost_of_living_city_index": 84092.25
+  },
+  {
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "oat_latte": {
+      "cost": 2345,
+      "currency": "KZT"
+    },
+    "nice_dinner": {
+      "cost": 16000,
+      "currency": "KZT"
+    },
+    "lime_bike": {
+      "cost": 650,
+      "currency": "KZT",
+      "name_of_equivalent": "Whoosh e-scooter"
+    },
+    "metro_ride": {
+      "cost": 110,
+      "currency": "KZT"
+    },
+    "phv_ride": {
+      "cost": 3050,
+      "currency": "KZT",
+      "name_of_equivalent": "Yandex Go"
+    },
+    "food_delivery": {
+      "cost": 4950,
+      "currency": "KZT",
+      "name_of_equivalent": "Glovo delivery"
+    },
+    "music_subscription": {
+      "cost": 1840,
+      "currency": "KZT"
+    },
+    "gym": {
+      "cost": 49500,
+      "currency": "KZT"
+    },
+    "monthly_rent_share": {
+      "cost": 176625,
+      "currency": "KZT"
+    },
+    "effective_tax_rate_percentage": 21.15,
+    "cost_of_living_city_index": 110821.35
+  },
+  {
+    "country": "Kenya",
+    "city": "Nairobi",
+    "oat_latte": {
+      "cost": 565,
+      "currency": "KES"
+    },
+    "nice_dinner": {
+      "cost": 4300,
+      "currency": "KES"
+    },
+    "lime_bike": {
+      "cost": 200,
+      "currency": "KES",
+      "name_of_equivalent": "Boda-boda app ride"
+    },
+    "metro_ride": {
+      "cost": 65,
+      "currency": "KES",
+      "name_of_equivalent": "Matatu ride"
+    },
+    "phv_ride": {
+      "cost": 1140,
+      "currency": "KES"
+    },
+    "food_delivery": {
+      "cost": 1285,
+      "currency": "KES"
+    },
+    "music_subscription": {
+      "cost": 329,
+      "currency": "KES"
+    },
+    "gym": {
+      "cost": 11500,
+      "currency": "KES"
+    },
+    "monthly_rent_share": {
+      "cost": 52875,
+      "currency": "KES"
+    },
+    "effective_tax_rate_percentage": 33.6,
+    "cost_of_living_city_index": 32958.38
+  },
+  {
+    "country": "Luxembourg",
+    "city": "Luxembourg",
+    "oat_latte": {
+      "cost": 5.6,
+      "currency": "EUR"
+    },
+    "nice_dinner": {
+      "cost": 79.75,
+      "currency": "EUR"
+    },
+    "lime_bike": {
+      "cost": 3.25,
+      "currency": "EUR",
+      "name_of_equivalent": "Lime e-scooter"
+    },
+    "metro_ride": {
+      "cost": 0,
+      "currency": "EUR",
+      "name_of_equivalent": "Luxtram"
+    },
+    "phv_ride": {
+      "cost": 45,
+      "currency": "EUR",
+      "name_of_equivalent": "Bolt / Webtaxi"
+    },
+    "food_delivery": {
+      "cost": 25.2,
+      "currency": "EUR"
+    },
+    "music_subscription": {
+      "cost": 10.99,
+      "currency": "EUR"
+    },
+    "gym": {
+      "cost": 96,
+      "currency": "EUR"
+    },
+    "monthly_rent_share": {
+      "cost": 1112.5,
+      "currency": "EUR"
+    },
+    "effective_tax_rate_percentage": 36,
+    "cost_of_living_city_index": 686.26
+  },
+  {
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "oat_latte": {
+      "cost": 19.55,
+      "currency": "MYR"
+    },
+    "nice_dinner": {
+      "cost": 152,
+      "currency": "MYR"
+    },
+    "lime_bike": {
+      "cost": 5,
+      "currency": "MYR",
+      "name_of_equivalent": "Beam e-scooter"
+    },
+    "metro_ride": {
+      "cost": 3,
+      "currency": "MYR",
+      "name_of_equivalent": "MRT/LRT ride"
+    },
+    "phv_ride": {
+      "cost": 38,
+      "currency": "MYR",
+      "name_of_equivalent": "Grab ride"
+    },
+    "food_delivery": {
+      "cost": 41.2,
+      "currency": "MYR",
+      "name_of_equivalent": "GrabFood delivery"
+    },
+    "music_subscription": {
+      "cost": 15.9,
+      "currency": "MYR"
+    },
+    "gym": {
+      "cost": 280,
+      "currency": "MYR"
+    },
+    "monthly_rent_share": {
+      "cost": 1775,
+      "currency": "MYR"
+    },
+    "effective_tax_rate_percentage": 28.33,
+    "cost_of_living_city_index": 1103.32
+  },
+  {
+    "country": "Mexico",
+    "city": "Mexico City",
+    "oat_latte": {
+      "cost": 110,
+      "currency": "MXN"
+    },
+    "nice_dinner": {
+      "cost": 1560,
+      "currency": "MXN"
+    },
+    "lime_bike": {
+      "cost": 47.5,
+      "currency": "MXN"
+    },
+    "metro_ride": {
+      "cost": 5.6,
+      "currency": "MXN"
+    },
+    "phv_ride": {
+      "cost": 223.5,
+      "currency": "MXN"
+    },
+    "food_delivery": {
+      "cost": 308,
+      "currency": "MXN",
+      "name_of_equivalent": "Rappi or Uber Eats premium fast food meal"
+    },
+    "music_subscription": {
+      "cost": 138.8,
+      "currency": "MXN"
+    },
+    "gym": {
+      "cost": 1905,
+      "currency": "MXN"
+    },
+    "monthly_rent_share": {
+      "cost": 12675,
+      "currency": "MXN"
+    },
+    "effective_tax_rate_percentage": 28.42,
+    "cost_of_living_city_index": 7944.09
+  },
+  {
+    "country": "Morocco",
+    "city": "Casablanca",
+    "oat_latte": {
+      "cost": 51,
+      "currency": "MAD"
+    },
+    "nice_dinner": {
+      "cost": 400,
+      "currency": "MAD"
+    },
+    "lime_bike": {
+      "cost": 16,
+      "currency": "MAD",
+      "name_of_equivalent": "Petit taxi"
+    },
+    "metro_ride": {
+      "cost": 7,
+      "currency": "MAD",
+      "name_of_equivalent": "Casa Tramway"
+    },
+    "phv_ride": {
+      "cost": 98.5,
+      "currency": "MAD",
+      "name_of_equivalent": "Careem"
+    },
+    "food_delivery": {
+      "cost": 110,
+      "currency": "MAD",
+      "name_of_equivalent": "Glovo"
+    },
+    "music_subscription": {
+      "cost": 31.5,
+      "currency": "MAD"
+    },
+    "gym": {
+      "cost": 660,
+      "currency": "MAD"
+    },
+    "monthly_rent_share": {
+      "cost": 3906.25,
+      "currency": "MAD"
+    },
+    "effective_tax_rate_percentage": 36.19,
+    "cost_of_living_city_index": 2441.38
+  },
+  {
+    "country": "Netherlands",
+    "city": "Amsterdam",
+    "oat_latte": {
+      "cost": 5.7,
+      "currency": "EUR"
+    },
+    "nice_dinner": {
+      "cost": 77.5,
+      "currency": "EUR"
+    },
+    "lime_bike": {
+      "cost": 3.75,
+      "currency": "EUR",
+      "name_of_equivalent": "Lime e-scooter"
+    },
+    "metro_ride": {
+      "cost": 2.37,
+      "currency": "EUR",
+      "name_of_equivalent": "GVB metro/tram"
+    },
+    "phv_ride": {
+      "cost": 33,
+      "currency": "EUR"
+    },
+    "food_delivery": {
+      "cost": 24.6,
+      "currency": "EUR",
+      "name_of_equivalent": "Thuisbezorgd/Uber Eats order"
+    },
+    "music_subscription": {
+      "cost": 10.99,
+      "currency": "EUR"
+    },
+    "gym": {
+      "cost": 82.5,
+      "currency": "EUR"
+    },
+    "monthly_rent_share": {
+      "cost": 1102.5,
+      "currency": "EUR"
+    },
+    "effective_tax_rate_percentage": 41.67,
+    "cost_of_living_city_index": 679.09
+  },
+  {
+    "country": "New Zealand",
+    "city": "Auckland",
+    "oat_latte": {
+      "cost": 7.2,
+      "currency": "NZD"
+    },
+    "nice_dinner": {
+      "cost": 124,
+      "currency": "NZD"
+    },
+    "lime_bike": {
+      "cost": 5.5,
+      "currency": "NZD",
+      "name_of_equivalent": "Lime e-scooter"
+    },
+    "metro_ride": {
+      "cost": 3.2,
+      "currency": "NZD",
+      "name_of_equivalent": "AT bus or train"
+    },
+    "phv_ride": {
+      "cost": 51.5,
+      "currency": "NZD"
+    },
+    "food_delivery": {
+      "cost": 33.25,
+      "currency": "NZD"
+    },
+    "music_subscription": {
+      "cost": 17.74,
+      "currency": "NZD"
+    },
+    "gym": {
+      "cost": 160,
+      "currency": "NZD"
+    },
+    "monthly_rent_share": {
+      "cost": 1470.31,
+      "currency": "NZD"
+    },
+    "effective_tax_rate_percentage": 29.14,
+    "cost_of_living_city_index": 911.04
+  },
+  {
+    "country": "Nigeria",
+    "city": "Lagos",
+    "oat_latte": {
+      "cost": 5775,
+      "currency": "NGN"
+    },
+    "nice_dinner": {
+      "cost": 49000,
+      "currency": "NGN"
+    },
+    "lime_bike": {
+      "cost": 720,
+      "currency": "NGN",
+      "name_of_equivalent": "Keke napep"
+    },
+    "metro_ride": {
+      "cost": 950,
+      "currency": "NGN",
+      "name_of_equivalent": "Lagos BRT / Blue Line"
+    },
+    "phv_ride": {
+      "cost": 9000,
+      "currency": "NGN",
+      "name_of_equivalent": "Bolt"
+    },
+    "food_delivery": {
+      "cost": 9550,
+      "currency": "NGN",
+      "name_of_equivalent": "Chowdeck"
+    },
+    "music_subscription": {
+      "cost": 3050,
+      "currency": "NGN"
+    },
+    "gym": {
+      "cost": 82000,
+      "currency": "NGN"
+    },
+    "monthly_rent_share": {
+      "cost": 184375,
+      "currency": "NGN"
+    },
+    "effective_tax_rate_percentage": 23.53,
+    "cost_of_living_city_index": 122306.85
+  },
+  {
+    "country": "Norway",
+    "city": "Oslo",
+    "oat_latte": {
+      "cost": 70.4,
+      "currency": "NOK"
+    },
+    "nice_dinner": {
+      "cost": 980,
+      "currency": "NOK"
+    },
+    "lime_bike": {
+      "cost": 40,
+      "currency": "NOK"
+    },
+    "metro_ride": {
+      "cost": 41.6,
+      "currency": "NOK"
+    },
+    "phv_ride": {
+      "cost": 474,
+      "currency": "NOK"
+    },
+    "food_delivery": {
+      "cost": 321.5,
+      "currency": "NOK",
+      "name_of_equivalent": "Wolt"
+    },
+    "music_subscription": {
+      "cost": 124,
+      "currency": "NOK"
+    },
+    "gym": {
+      "cost": 760,
+      "currency": "NOK"
+    },
+    "monthly_rent_share": {
+      "cost": 10437.5,
+      "currency": "NOK"
+    },
+    "effective_tax_rate_percentage": 31.11,
+    "cost_of_living_city_index": 6475.43
+  },
+  {
+    "country": "Pakistan",
+    "city": "Karachi",
+    "oat_latte": {
+      "cost": 960,
+      "currency": "PKR"
+    },
+    "nice_dinner": {
+      "cost": 4600,
+      "currency": "PKR"
+    },
+    "lime_bike": {
+      "cost": 140,
+      "currency": "PKR",
+      "name_of_equivalent": "Bykea ride"
+    },
+    "metro_ride": {
+      "cost": 35,
+      "currency": "PKR",
+      "name_of_equivalent": "Peoples Bus Service ride"
+    },
+    "phv_ride": {
+      "cost": 995,
+      "currency": "PKR",
+      "name_of_equivalent": "Careem ride"
+    },
+    "food_delivery": {
+      "cost": 1220,
+      "currency": "PKR",
+      "name_of_equivalent": "Foodpanda premium fast food meal"
+    },
+    "music_subscription": {
+      "cost": 349,
+      "currency": "PKR"
+    },
+    "gym": {
+      "cost": 11850,
+      "currency": "PKR"
+    },
+    "monthly_rent_share": {
+      "cost": 50187.5,
+      "currency": "PKR"
+    },
+    "effective_tax_rate_percentage": 31.5,
+    "cost_of_living_city_index": 31415.38
+  },
+  {
+    "country": "Peru",
+    "city": "Lima",
+    "oat_latte": {
+      "cost": 17.6,
+      "currency": "PEN"
+    },
+    "nice_dinner": {
+      "cost": 135,
+      "currency": "PEN"
+    },
+    "lime_bike": {
+      "cost": 6,
+      "currency": "PEN",
+      "name_of_equivalent": "E-scooter rental"
+    },
+    "metro_ride": {
+      "cost": 2,
+      "currency": "PEN"
+    },
+    "phv_ride": {
+      "cost": 30,
+      "currency": "PEN"
+    },
+    "food_delivery": {
+      "cost": 41.2,
+      "currency": "PEN"
+    },
+    "music_subscription": {
+      "cost": 18.9,
+      "currency": "PEN"
+    },
+    "gym": {
+      "cost": 282,
+      "currency": "PEN"
+    },
+    "monthly_rent_share": {
+      "cost": 1727.5,
+      "currency": "PEN"
+    },
+    "effective_tax_rate_percentage": 30,
+    "cost_of_living_city_index": 1072.08
+  },
+  {
+    "country": "Philippines",
+    "city": "Manila",
+    "oat_latte": {
+      "cost": 260,
+      "currency": "PHP"
+    },
+    "nice_dinner": {
+      "cost": 2600,
+      "currency": "PHP"
+    },
+    "lime_bike": {
+      "cost": 110,
+      "currency": "PHP",
+      "name_of_equivalent": "Angkas"
+    },
+    "metro_ride": {
+      "cost": 22.5,
+      "currency": "PHP",
+      "name_of_equivalent": "MRT/LRT"
+    },
+    "phv_ride": {
+      "cost": 387.5,
+      "currency": "PHP",
+      "name_of_equivalent": "Grab"
+    },
+    "food_delivery": {
+      "cost": 437.5,
+      "currency": "PHP",
+      "name_of_equivalent": "GrabFood"
+    },
+    "music_subscription": {
+      "cost": 145.5,
+      "currency": "PHP"
+    },
+    "gym": {
+      "cost": 4000,
+      "currency": "PHP"
+    },
+    "monthly_rent_share": {
+      "cost": 24250,
+      "currency": "PHP"
+    },
+    "effective_tax_rate_percentage": 25.71,
+    "cost_of_living_city_index": 15149.01
+  },
+  {
+    "country": "Poland",
+    "city": "Warsaw",
+    "oat_latte": {
+      "cost": 19.6,
+      "currency": "PLN"
+    },
+    "nice_dinner": {
+      "cost": 191.5,
+      "currency": "PLN"
+    },
+    "lime_bike": {
+      "cost": 8.5,
+      "currency": "PLN",
+      "name_of_equivalent": "Lime e-scooter"
+    },
+    "metro_ride": {
+      "cost": 3.7,
+      "currency": "PLN"
+    },
+    "phv_ride": {
+      "cost": 59.75,
+      "currency": "PLN"
+    },
+    "food_delivery": {
+      "cost": 48.75,
+      "currency": "PLN"
+    },
+    "music_subscription": {
+      "cost": 23.39,
+      "currency": "PLN"
+    },
+    "gym": {
+      "cost": 260,
+      "currency": "PLN"
+    },
+    "monthly_rent_share": {
+      "cost": 3156.25,
+      "currency": "PLN"
+    },
+    "effective_tax_rate_percentage": 38.89,
+    "cost_of_living_city_index": 1938.43
+  },
+  {
+    "country": "Portugal",
+    "city": "Lisbon",
+    "oat_latte": {
+      "cost": 4.4,
+      "currency": "EUR"
+    },
+    "nice_dinner": {
+      "cost": 54.25,
+      "currency": "EUR"
+    },
+    "lime_bike": {
+      "cost": 3.25,
+      "currency": "EUR",
+      "name_of_equivalent": "Lime/Bolt e-scooter"
+    },
+    "metro_ride": {
+      "cost": 1.55,
+      "currency": "EUR"
+    },
+    "phv_ride": {
+      "cost": 16.6,
+      "currency": "EUR"
+    },
+    "food_delivery": {
+      "cost": 19.4,
+      "currency": "EUR"
+    },
+    "music_subscription": {
+      "cost": 10.99,
+      "currency": "EUR"
+    },
+    "gym": {
+      "cost": 79.25,
+      "currency": "EUR"
+    },
+    "monthly_rent_share": {
+      "cost": 990,
+      "currency": "EUR"
+    },
+    "effective_tax_rate_percentage": 41.58,
+    "cost_of_living_city_index": 607.17
+  },
+  {
+    "country": "Qatar",
+    "city": "Doha",
+    "oat_latte": {
+      "cost": 34,
+      "currency": "QAR"
+    },
+    "nice_dinner": {
+      "cost": 310,
+      "currency": "QAR"
+    },
+    "lime_bike": {
+      "cost": 11.15,
+      "currency": "QAR",
+      "name_of_equivalent": "e-scooter rental"
+    },
+    "metro_ride": {
+      "cost": 5.2,
+      "currency": "QAR"
+    },
+    "phv_ride": {
+      "cost": 50,
+      "currency": "QAR"
+    },
+    "food_delivery": {
+      "cost": 74,
+      "currency": "QAR",
+      "name_of_equivalent": "Talabat"
+    },
+    "music_subscription": {
+      "cost": 21.99,
+      "currency": "QAR"
+    },
+    "gym": {
+      "cost": 495,
+      "currency": "QAR"
+    },
+    "monthly_rent_share": {
+      "cost": 4037.5,
+      "currency": "QAR"
+    },
+    "effective_tax_rate_percentage": 0,
+    "cost_of_living_city_index": 2495.89
+  },
+  {
+    "country": "Romania",
+    "city": "Bucharest",
+    "oat_latte": {
+      "cost": 21.2,
+      "currency": "RON"
+    },
+    "nice_dinner": {
+      "cost": 240,
+      "currency": "RON"
+    },
+    "lime_bike": {
+      "cost": 12.5,
+      "currency": "RON",
+      "name_of_equivalent": "Lime/Bolt e-scooter"
+    },
+    "metro_ride": {
+      "cost": 2.68,
+      "currency": "RON"
+    },
+    "phv_ride": {
+      "cost": 46,
+      "currency": "RON"
+    },
+    "food_delivery": {
+      "cost": 64.5,
+      "currency": "RON"
+    },
+    "music_subscription": {
+      "cost": 26.1,
+      "currency": "RON"
+    },
+    "gym": {
+      "cost": 330,
+      "currency": "RON"
+    },
+    "monthly_rent_share": {
+      "cost": 2281.25,
+      "currency": "RON"
+    },
+    "effective_tax_rate_percentage": 35,
+    "cost_of_living_city_index": 1423.95
+  },
+  {
+    "country": "Russia",
+    "city": "Moscow",
+    "oat_latte": {
+      "cost": 470,
+      "currency": "RUB"
+    },
+    "nice_dinner": {
+      "cost": 5200,
+      "currency": "RUB"
+    },
+    "lime_bike": {
+      "cost": 140,
+      "currency": "RUB",
+      "name_of_equivalent": "Whoosh electric scooter"
+    },
+    "metro_ride": {
+      "cost": 49.8,
+      "currency": "RUB"
+    },
+    "phv_ride": {
+      "cost": 1100,
+      "currency": "RUB",
+      "name_of_equivalent": "Yandex Taxi Comfort"
+    },
+    "food_delivery": {
+      "cost": 1120,
+      "currency": "RUB",
+      "name_of_equivalent": "Yandex Eда"
+    },
+    "music_subscription": {
+      "cost": 324,
+      "currency": "RUB",
+      "name_of_equivalent": "Yandex Plus"
+    },
+    "gym": {
+      "cost": 11000,
+      "currency": "RUB"
+    },
+    "monthly_rent_share": {
+      "cost": 60937.5,
+      "currency": "RUB"
+    },
+    "effective_tax_rate_percentage": 13.61,
+    "cost_of_living_city_index": 37895.97
+  },
+  {
+    "country": "Russia",
+    "city": "St Petersburg",
+    "oat_latte": {
+      "cost": 420,
+      "currency": "RUB"
+    },
+    "nice_dinner": {
+      "cost": 4300,
+      "currency": "RUB"
+    },
+    "lime_bike": {
+      "cost": 125,
+      "currency": "RUB",
+      "name_of_equivalent": "Whoosh e-scooter"
+    },
+    "metro_ride": {
+      "cost": 52.5,
+      "currency": "RUB"
+    },
+    "phv_ride": {
+      "cost": 725,
+      "currency": "RUB",
+      "name_of_equivalent": "Yandex Go Comfort"
+    },
+    "food_delivery": {
+      "cost": 900,
+      "currency": "RUB",
+      "name_of_equivalent": "Yandex Eda"
+    },
+    "music_subscription": {
+      "cost": 339,
+      "currency": "RUB",
+      "name_of_equivalent": "Yandex Plus"
+    },
+    "gym": {
+      "cost": 7900,
+      "currency": "RUB"
+    },
+    "monthly_rent_share": {
+      "cost": 33125,
+      "currency": "RUB"
+    },
+    "effective_tax_rate_percentage": 13,
+    "cost_of_living_city_index": 20926.86
+  },
+  {
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "oat_latte": {
+      "cost": 28.5,
+      "currency": "SAR"
+    },
+    "nice_dinner": {
+      "cost": 260,
+      "currency": "SAR"
+    },
+    "lime_bike": {
+      "cost": 13.4,
+      "currency": "SAR",
+      "name_of_equivalent": "Careem Go short ride"
+    },
+    "metro_ride": {
+      "cost": 6.7,
+      "currency": "SAR"
+    },
+    "phv_ride": {
+      "cost": 57,
+      "currency": "SAR"
+    },
+    "food_delivery": {
+      "cost": 66,
+      "currency": "SAR"
+    },
+    "music_subscription": {
+      "cost": 26.99,
+      "currency": "SAR"
+    },
+    "gym": {
+      "cost": 395,
+      "currency": "SAR"
+    },
+    "monthly_rent_share": {
+      "cost": 3718.75,
+      "currency": "SAR"
+    },
+    "effective_tax_rate_percentage": 0,
+    "cost_of_living_city_index": 2292.97
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "oat_latte": {
+      "cost": 8.8,
+      "currency": "SGD"
+    },
+    "nice_dinner": {
+      "cost": 135,
+      "currency": "SGD"
+    },
+    "lime_bike": {
+      "cost": 1.6,
+      "currency": "SGD",
+      "name_of_equivalent": "Anywheel"
+    },
+    "metro_ride": {
+      "cost": 1.7,
+      "currency": "SGD",
+      "name_of_equivalent": "MRT"
+    },
+    "phv_ride": {
+      "cost": 31.2,
+      "currency": "SGD",
+      "name_of_equivalent": "Grab"
+    },
+    "food_delivery": {
+      "cost": 28.25,
+      "currency": "SGD",
+      "name_of_equivalent": "GrabFood"
+    },
+    "music_subscription": {
+      "cost": 10.22,
+      "currency": "SGD"
+    },
+    "gym": {
+      "cost": 270,
+      "currency": "SGD"
+    },
+    "monthly_rent_share": {
+      "cost": 2206.25,
+      "currency": "SGD"
+    },
+    "effective_tax_rate_percentage": 10.95,
+    "cost_of_living_city_index": 1357.61
+  },
+  {
+    "country": "South Africa",
+    "city": "Cape Town",
+    "oat_latte": {
+      "cost": 57,
+      "currency": "ZAR"
+    },
+    "nice_dinner": {
+      "cost": 690,
+      "currency": "ZAR"
+    },
+    "lime_bike": {
+      "cost": 45,
+      "currency": "ZAR",
+      "name_of_equivalent": "Short Bolt ride"
+    },
+    "metro_ride": {
+      "cost": 18.5,
+      "currency": "ZAR",
+      "name_of_equivalent": "MyCiTi bus"
+    },
+    "phv_ride": {
+      "cost": 260,
+      "currency": "ZAR"
+    },
+    "food_delivery": {
+      "cost": 168,
+      "currency": "ZAR"
+    },
+    "music_subscription": {
+      "cost": 90,
+      "currency": "ZAR"
+    },
+    "gym": {
+      "cost": 860,
+      "currency": "ZAR"
+    },
+    "monthly_rent_share": {
+      "cost": 8550,
+      "currency": "ZAR"
+    },
+    "effective_tax_rate_percentage": 33.75,
+    "cost_of_living_city_index": 5288.98
+  },
+  {
+    "country": "South Africa",
+    "city": "Johannesburg",
+    "oat_latte": {
+      "cost": 57,
+      "currency": "ZAR"
+    },
+    "nice_dinner": {
+      "cost": 620,
+      "currency": "ZAR"
+    },
+    "lime_bike": {
+      "cost": 55.25,
+      "currency": "ZAR",
+      "name_of_equivalent": "Short Bolt ride"
+    },
+    "metro_ride": {
+      "cost": 57.5,
+      "currency": "ZAR",
+      "name_of_equivalent": "Gautrain ride"
+    },
+    "phv_ride": {
+      "cost": 208,
+      "currency": "ZAR"
+    },
+    "food_delivery": {
+      "cost": 210.5,
+      "currency": "ZAR"
+    },
+    "music_subscription": {
+      "cost": 84,
+      "currency": "ZAR"
+    },
+    "gym": {
+      "cost": 930,
+      "currency": "ZAR"
+    },
+    "monthly_rent_share": {
+      "cost": 7562.5,
+      "currency": "ZAR"
+    },
+    "effective_tax_rate_percentage": 32.71,
+    "cost_of_living_city_index": 4690.27
+  },
+  {
+    "country": "South Korea",
+    "city": "Seoul",
+    "oat_latte": {
+      "cost": 7625,
+      "currency": "KRW"
+    },
+    "nice_dinner": {
+      "cost": 53200,
+      "currency": "KRW"
+    },
+    "lime_bike": {
+      "cost": 2750,
+      "currency": "KRW"
+    },
+    "metro_ride": {
+      "cost": 1560,
+      "currency": "KRW"
+    },
+    "phv_ride": {
+      "cost": 27350,
+      "currency": "KRW"
+    },
+    "food_delivery": {
+      "cost": 18960,
+      "currency": "KRW"
+    },
+    "music_subscription": {
+      "cost": 11150,
+      "currency": "KRW"
+    },
+    "gym": {
+      "cost": 145000,
+      "currency": "KRW"
+    },
+    "monthly_rent_share": {
+      "cost": 1237500,
+      "currency": "KRW"
+    },
+    "effective_tax_rate_percentage": 30,
+    "cost_of_living_city_index": 758592.45
+  },
+  {
+    "country": "Spain",
+    "city": "Barcelona",
+    "oat_latte": {
+      "cost": 4.8,
+      "currency": "EUR"
+    },
+    "nice_dinner": {
+      "cost": 62,
+      "currency": "EUR"
+    },
+    "lime_bike": {
+      "cost": 3,
+      "currency": "EUR",
+      "name_of_equivalent": "Donkey Republic bike"
+    },
+    "metro_ride": {
+      "cost": 1.46,
+      "currency": "EUR"
+    },
+    "phv_ride": {
+      "cost": 22.8,
+      "currency": "EUR",
+      "name_of_equivalent": "Cabify"
+    },
+    "food_delivery": {
+      "cost": 21,
+      "currency": "EUR",
+      "name_of_equivalent": "Glovo"
+    },
+    "music_subscription": {
+      "cost": 10.99,
+      "currency": "EUR"
+    },
+    "gym": {
+      "cost": 76,
+      "currency": "EUR",
+      "name_of_equivalent": "DIR"
+    },
+    "monthly_rent_share": {
+      "cost": 862.5,
+      "currency": "EUR"
+    },
+    "effective_tax_rate_percentage": 37.06,
+    "cost_of_living_city_index": 531.96
+  },
+  {
+    "country": "Spain",
+    "city": "Madrid",
+    "oat_latte": {
+      "cost": 4.47,
+      "currency": "EUR"
+    },
+    "nice_dinner": {
+      "cost": 64.25,
+      "currency": "EUR"
+    },
+    "lime_bike": {
+      "cost": 3.5,
+      "currency": "EUR",
+      "name_of_equivalent": "Lime e-scooter"
+    },
+    "metro_ride": {
+      "cost": 1.4,
+      "currency": "EUR"
+    },
+    "phv_ride": {
+      "cost": 19.15,
+      "currency": "EUR",
+      "name_of_equivalent": "Cabify"
+    },
+    "food_delivery": {
+      "cost": 20.5,
+      "currency": "EUR",
+      "name_of_equivalent": "Glovo"
+    },
+    "music_subscription": {
+      "cost": 10.99,
+      "currency": "EUR"
+    },
+    "gym": {
+      "cost": 82.5,
+      "currency": "EUR"
+    },
+    "monthly_rent_share": {
+      "cost": 900,
+      "currency": "EUR"
+    },
+    "effective_tax_rate_percentage": 36.32,
+    "cost_of_living_city_index": 554.92
+  },
+  {
+    "country": "Sweden",
+    "city": "Stockholm",
+    "oat_latte": {
+      "cost": 68,
+      "currency": "SEK"
+    },
+    "nice_dinner": {
+      "cost": 825,
+      "currency": "SEK"
+    },
+    "lime_bike": {
+      "cost": 37.5,
+      "currency": "SEK",
+      "name_of_equivalent": "Voi scooter"
+    },
+    "metro_ride": {
+      "cost": 30.75,
+      "currency": "SEK"
+    },
+    "phv_ride": {
+      "cost": 337.5,
+      "currency": "SEK"
+    },
+    "food_delivery": {
+      "cost": 248,
+      "currency": "SEK",
+      "name_of_equivalent": "Foodora order"
+    },
+    "music_subscription": {
+      "cost": 124,
+      "currency": "SEK"
+    },
+    "gym": {
+      "cost": 659.35,
+      "currency": "SEK"
+    },
+    "monthly_rent_share": {
+      "cost": 9400,
+      "currency": "SEK"
+    },
+    "effective_tax_rate_percentage": 30,
+    "cost_of_living_city_index": 5818.1
+  },
+  {
+    "country": "Switzerland",
+    "city": "Geneva",
+    "oat_latte": {
+      "cost": 7.45,
+      "currency": "CHF"
+    },
+    "nice_dinner": {
+      "cost": 118.5,
+      "currency": "CHF"
+    },
+    "lime_bike": {
+      "cost": 4.25,
+      "currency": "CHF"
+    },
+    "metro_ride": {
+      "cost": 3.2,
+      "currency": "CHF",
+      "name_of_equivalent": "TPG tram/bus"
+    },
+    "phv_ride": {
+      "cost": 56,
+      "currency": "CHF"
+    },
+    "food_delivery": {
+      "cost": 35.2,
+      "currency": "CHF"
+    },
+    "music_subscription": {
+      "cost": 13.53,
+      "currency": "CHF"
+    },
+    "gym": {
+      "cost": 148,
+      "currency": "CHF"
+    },
+    "monthly_rent_share": {
+      "cost": 1522.5,
+      "currency": "CHF"
+    },
+    "effective_tax_rate_percentage": 34.29,
+    "cost_of_living_city_index": 941.15
+  },
+  {
+    "country": "Switzerland",
+    "city": "Zurich",
+    "oat_latte": {
+      "cost": 7.63,
+      "currency": "CHF"
+    },
+    "nice_dinner": {
+      "cost": 112,
+      "currency": "CHF"
+    },
+    "lime_bike": {
+      "cost": 4.25,
+      "currency": "CHF"
+    },
+    "metro_ride": {
+      "cost": 4.56,
+      "currency": "CHF",
+      "name_of_equivalent": "ZVV tram/S-Bahn"
+    },
+    "phv_ride": {
+      "cost": 57,
+      "currency": "CHF"
+    },
+    "food_delivery": {
+      "cost": 32.15,
+      "currency": "CHF"
+    },
+    "music_subscription": {
+      "cost": 16.1,
+      "currency": "CHF"
+    },
+    "gym": {
+      "cost": 156,
+      "currency": "CHF"
+    },
+    "monthly_rent_share": {
+      "cost": 1542.5,
+      "currency": "CHF"
+    },
+    "effective_tax_rate_percentage": 27.18,
+    "cost_of_living_city_index": 952.5
+  },
+  {
+    "country": "Taiwan",
+    "city": "Taipei",
+    "oat_latte": {
+      "cost": 192,
+      "currency": "TWD"
+    },
+    "nice_dinner": {
+      "cost": 1580,
+      "currency": "TWD"
+    },
+    "lime_bike": {
+      "cost": 6.5,
+      "currency": "TWD",
+      "name_of_equivalent": "YouBike"
+    },
+    "metro_ride": {
+      "cost": 27.5,
+      "currency": "TWD"
+    },
+    "phv_ride": {
+      "cost": 387.5,
+      "currency": "TWD"
+    },
+    "food_delivery": {
+      "cost": 360,
+      "currency": "TWD"
+    },
+    "music_subscription": {
+      "cost": 173,
+      "currency": "TWD"
+    },
+    "gym": {
+      "cost": 1980,
+      "currency": "TWD"
+    },
+    "monthly_rent_share": {
+      "cost": 20437.5,
+      "currency": "TWD"
+    },
+    "effective_tax_rate_percentage": 18.95,
+    "cost_of_living_city_index": 12618.81
+  },
+  {
+    "country": "Thailand",
+    "city": "Bangkok",
+    "oat_latte": {
+      "cost": 162,
+      "currency": "THB"
+    },
+    "nice_dinner": {
+      "cost": 1460,
+      "currency": "THB"
+    },
+    "lime_bike": {
+      "cost": 47.5,
+      "currency": "THB",
+      "name_of_equivalent": "Grab Bike"
+    },
+    "metro_ride": {
+      "cost": 33.2,
+      "currency": "THB",
+      "name_of_equivalent": "BTS/MRT"
+    },
+    "phv_ride": {
+      "cost": 287.5,
+      "currency": "THB",
+      "name_of_equivalent": "Grab Car"
+    },
+    "food_delivery": {
+      "cost": 350,
+      "currency": "THB",
+      "name_of_equivalent": "GrabFood"
+    },
+    "music_subscription": {
+      "cost": 129,
+      "currency": "THB"
+    },
+    "gym": {
+      "cost": 3120,
+      "currency": "THB"
+    },
+    "monthly_rent_share": {
+      "cost": 16500,
+      "currency": "THB"
+    },
+    "effective_tax_rate_percentage": 21.44,
+    "cost_of_living_city_index": 10279.53
+  },
+  {
+    "country": "Turkey",
+    "city": "Istanbul",
+    "oat_latte": {
+      "cost": 168,
+      "currency": "TRY"
+    },
+    "nice_dinner": {
+      "cost": 2190,
+      "currency": "TRY"
+    },
+    "lime_bike": {
+      "cost": 52.5,
+      "currency": "TRY",
+      "name_of_equivalent": "Martı scooter"
+    },
+    "metro_ride": {
+      "cost": 18.5,
+      "currency": "TRY"
+    },
+    "phv_ride": {
+      "cost": 465,
+      "currency": "TRY",
+      "name_of_equivalent": "BiTaksi"
+    },
+    "food_delivery": {
+      "cost": 410,
+      "currency": "TRY",
+      "name_of_equivalent": "Yemeksepeti"
+    },
+    "music_subscription": {
+      "cost": 70,
+      "currency": "TRY"
+    },
+    "gym": {
+      "cost": 4600,
+      "currency": "TRY"
+    },
+    "monthly_rent_share": {
+      "cost": 17525,
+      "currency": "TRY"
+    },
+    "effective_tax_rate_percentage": 39.29,
+    "cost_of_living_city_index": 11069.78
+  },
+  {
+    "country": "United Arab Emirates",
+    "city": "Abu Dhabi",
+    "oat_latte": {
+      "cost": 30.06,
+      "currency": "AED"
+    },
+    "nice_dinner": {
+      "cost": 387.5,
+      "currency": "AED"
+    },
+    "lime_bike": {
+      "cost": 15,
+      "currency": "AED",
+      "name_of_equivalent": "E-scooter"
+    },
+    "metro_ride": {
+      "cost": 3.2,
+      "currency": "AED",
+      "name_of_equivalent": "Darb public bus"
+    },
+    "phv_ride": {
+      "cost": 57,
+      "currency": "AED"
+    },
+    "food_delivery": {
+      "cost": 71,
+      "currency": "AED",
+      "name_of_equivalent": "Talabat premium fast food delivery"
+    },
+    "music_subscription": {
+      "cost": 19.99,
+      "currency": "AED"
+    },
+    "gym": {
+      "cost": 495,
+      "currency": "AED"
+    },
+    "monthly_rent_share": {
+      "cost": 3918.75,
+      "currency": "AED"
+    },
+    "effective_tax_rate_percentage": 0,
+    "cost_of_living_city_index": 2436.17
+  },
+  {
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "oat_latte": {
+      "cost": 28.5,
+      "currency": "AED"
+    },
+    "nice_dinner": {
+      "cost": 387.5,
+      "currency": "AED"
+    },
+    "lime_bike": {
+      "cost": 11.5,
+      "currency": "AED",
+      "name_of_equivalent": "Lime e-scooter"
+    },
+    "metro_ride": {
+      "cost": 5.8,
+      "currency": "AED"
+    },
+    "phv_ride": {
+      "cost": 67.5,
+      "currency": "AED",
+      "name_of_equivalent": "Careem"
+    },
+    "food_delivery": {
+      "cost": 73,
+      "currency": "AED",
+      "name_of_equivalent": "Talabat"
+    },
+    "music_subscription": {
+      "cost": 20.99,
+      "currency": "AED"
+    },
+    "gym": {
+      "cost": 512.5,
+      "currency": "AED"
+    },
+    "monthly_rent_share": {
+      "cost": 5150,
+      "currency": "AED"
+    },
+    "effective_tax_rate_percentage": 0,
+    "cost_of_living_city_index": 3175.93
+  },
+  {
+    "country": "United Kingdom",
+    "city": "Cambridge",
+    "oat_latte": {
+      "cost": 4.35,
+      "currency": "GBP"
+    },
+    "nice_dinner": {
+      "cost": 59.25,
+      "currency": "GBP"
+    },
+    "lime_bike": {
+      "cost": 2.75,
+      "currency": "GBP",
+      "name_of_equivalent": "Voi e-scooter"
+    },
+    "metro_ride": {
+      "cost": 2.5,
+      "currency": "GBP",
+      "name_of_equivalent": "Stagecoach bus"
+    },
+    "phv_ride": {
+      "cost": 28.2,
+      "currency": "GBP"
+    },
+    "food_delivery": {
+      "cost": 21,
+      "currency": "GBP"
+    },
+    "music_subscription": {
+      "cost": 10.99,
+      "currency": "GBP"
+    },
+    "gym": {
+      "cost": 90.75,
+      "currency": "GBP"
+    },
+    "monthly_rent_share": {
+      "cost": 812.5,
+      "currency": "GBP"
+    },
+    "effective_tax_rate_percentage": 32.9,
+    "cost_of_living_city_index": 502.3
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "oat_latte": {
+      "cost": 4.9,
+      "currency": "GBP"
+    },
+    "nice_dinner": {
+      "cost": 69.75,
+      "currency": "GBP"
+    },
+    "lime_bike": {
+      "cost": 3,
+      "currency": "GBP"
+    },
+    "metro_ride": {
+      "cost": 2.98,
+      "currency": "GBP",
+      "name_of_equivalent": "London Underground (Tube)"
+    },
+    "phv_ride": {
+      "cost": 31.2,
+      "currency": "GBP"
+    },
+    "food_delivery": {
+      "cost": 23.5,
+      "currency": "GBP"
+    },
+    "music_subscription": {
+      "cost": 11.84,
+      "currency": "GBP"
+    },
+    "gym": {
+      "cost": 98.5,
+      "currency": "GBP"
+    },
+    "monthly_rent_share": {
+      "cost": 1325,
+      "currency": "GBP"
+    },
+    "effective_tax_rate_percentage": 32.41,
+    "cost_of_living_city_index": 811.94
+  },
+  {
+    "country": "United Kingdom",
+    "city": "Manchester",
+    "oat_latte": {
+      "cost": 4.35,
+      "currency": "GBP"
+    },
+    "nice_dinner": {
+      "cost": 67,
+      "currency": "GBP"
+    },
+    "lime_bike": {
+      "cost": 3,
+      "currency": "GBP"
+    },
+    "metro_ride": {
+      "cost": 3.41,
+      "currency": "GBP",
+      "name_of_equivalent": "Metrolink tram"
+    },
+    "phv_ride": {
+      "cost": 20.4,
+      "currency": "GBP"
+    },
+    "food_delivery": {
+      "cost": 19.85,
+      "currency": "GBP"
+    },
+    "music_subscription": {
+      "cost": 11.84,
+      "currency": "GBP"
+    },
+    "gym": {
+      "cost": 72.5,
+      "currency": "GBP"
+    },
+    "monthly_rent_share": {
+      "cost": 703.13,
+      "currency": "GBP"
+    },
+    "effective_tax_rate_percentage": 28.81,
+    "cost_of_living_city_index": 436.88
+  },
+  {
+    "country": "United Kingdom",
+    "city": "Oxford",
+    "oat_latte": {
+      "cost": 4.35,
+      "currency": "GBP"
+    },
+    "nice_dinner": {
+      "cost": 59.25,
+      "currency": "GBP"
+    },
+    "lime_bike": {
+      "cost": 3.25,
+      "currency": "GBP",
+      "name_of_equivalent": "Voi e-scooter"
+    },
+    "metro_ride": {
+      "cost": 2.5,
+      "currency": "GBP",
+      "name_of_equivalent": "local bus"
+    },
+    "phv_ride": {
+      "cost": 28.2,
+      "currency": "GBP"
+    },
+    "food_delivery": {
+      "cost": 19.96,
+      "currency": "GBP"
+    },
+    "music_subscription": {
+      "cost": 10.99,
+      "currency": "GBP"
+    },
+    "gym": {
+      "cost": 92,
+      "currency": "GBP"
+    },
+    "monthly_rent_share": {
+      "cost": 813.75,
+      "currency": "GBP"
+    },
+    "effective_tax_rate_percentage": 32.83,
+    "cost_of_living_city_index": 503.07
+  },
+  {
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "oat_latte": {
+      "cost": 132,
+      "currency": "UAH"
+    },
+    "nice_dinner": {
+      "cost": 1460,
+      "currency": "UAH"
+    },
+    "lime_bike": {
+      "cost": 70,
+      "currency": "UAH",
+      "name_of_equivalent": "Bolt e-scooter"
+    },
+    "metro_ride": {
+      "cost": 10.1,
+      "currency": "UAH"
+    },
+    "phv_ride": {
+      "cost": 287.5,
+      "currency": "UAH",
+      "name_of_equivalent": "Bolt taxi"
+    },
+    "food_delivery": {
+      "cost": 387.5,
+      "currency": "UAH",
+      "name_of_equivalent": "Glovo delivery"
+    },
+    "music_subscription": {
+      "cost": 93,
+      "currency": "UAH"
+    },
+    "gym": {
+      "cost": 1975,
+      "currency": "UAH"
+    },
+    "monthly_rent_share": {
+      "cost": 11375,
+      "currency": "UAH"
+    },
+    "effective_tax_rate_percentage": 23,
+    "cost_of_living_city_index": 7157.99
+  },
+  {
+    "country": "United States",
+    "city": "Atlanta",
+    "oat_latte": {
+      "cost": 6.7,
+      "currency": "USD"
+    },
+    "nice_dinner": {
+      "cost": 94.8,
+      "currency": "USD"
+    },
+    "lime_bike": {
+      "cost": 4.5,
+      "currency": "USD",
+      "name_of_equivalent": "Lime scooter"
+    },
+    "metro_ride": {
+      "cost": 2.5,
+      "currency": "USD",
+      "name_of_equivalent": "MARTA"
+    },
+    "phv_ride": {
+      "cost": 38,
+      "currency": "USD"
+    },
+    "food_delivery": {
+      "cost": 25.8,
+      "currency": "USD"
+    },
+    "music_subscription": {
+      "cost": 11.99,
+      "currency": "USD"
+    },
+    "gym": {
+      "cost": 146,
+      "currency": "USD"
+    },
+    "monthly_rent_share": {
+      "cost": 1100,
+      "currency": "USD"
+    },
+    "effective_tax_rate_percentage": 31.36,
+    "cost_of_living_city_index": 683.02
+  },
+  {
+    "country": "United States",
+    "city": "Austin",
+    "oat_latte": {
+      "cost": 6.7,
+      "currency": "USD"
+    },
+    "nice_dinner": {
+      "cost": 93,
+      "currency": "USD"
+    },
+    "lime_bike": {
+      "cost": 4.5,
+      "currency": "USD",
+      "name_of_equivalent": "Lime scooter"
+    },
+    "metro_ride": {
+      "cost": 2.04,
+      "currency": "USD",
+      "name_of_equivalent": "CapMetro"
+    },
+    "phv_ride": {
+      "cost": 43,
+      "currency": "USD"
+    },
+    "food_delivery": {
+      "cost": 29.15,
+      "currency": "USD"
+    },
+    "music_subscription": {
+      "cost": 12.09,
+      "currency": "USD"
+    },
+    "gym": {
+      "cost": 164,
+      "currency": "USD"
+    },
+    "monthly_rent_share": {
+      "cost": 1137.5,
+      "currency": "USD"
+    },
+    "effective_tax_rate_percentage": 25.64,
+    "cost_of_living_city_index": 706.24
+  },
+  {
+    "country": "United States",
+    "city": "Boston",
+    "oat_latte": {
+      "cost": 6.7,
+      "currency": "USD"
+    },
+    "nice_dinner": {
+      "cost": 100.75,
+      "currency": "USD"
+    },
+    "lime_bike": {
+      "cost": 4.3,
+      "currency": "USD",
+      "name_of_equivalent": "Bluebikes"
+    },
+    "metro_ride": {
+      "cost": 2.36,
+      "currency": "USD",
+      "name_of_equivalent": "MBTA"
+    },
+    "phv_ride": {
+      "cost": 41.5,
+      "currency": "USD"
+    },
+    "food_delivery": {
+      "cost": 29.15,
+      "currency": "USD"
+    },
+    "music_subscription": {
+      "cost": 12.99,
+      "currency": "USD"
+    },
+    "gym": {
+      "cost": 199,
+      "currency": "USD"
+    },
+    "monthly_rent_share": {
+      "cost": 1550,
+      "currency": "USD"
+    },
+    "effective_tax_rate_percentage": 31.49,
+    "cost_of_living_city_index": 956.28
+  },
+  {
+    "country": "United States",
+    "city": "Chicago",
+    "oat_latte": {
+      "cost": 6.7,
+      "currency": "USD"
+    },
+    "nice_dinner": {
+      "cost": 116.25,
+      "currency": "USD"
+    },
+    "lime_bike": {
+      "cost": 4.3,
+      "currency": "USD",
+      "name_of_equivalent": "Divvy bike"
+    },
+    "metro_ride": {
+      "cost": 2.51,
+      "currency": "USD",
+      "name_of_equivalent": "CTA ride"
+    },
+    "phv_ride": {
+      "cost": 40,
+      "currency": "USD"
+    },
+    "food_delivery": {
+      "cost": 33.25,
+      "currency": "USD"
+    },
+    "music_subscription": {
+      "cost": 11.69,
+      "currency": "USD"
+    },
+    "gym": {
+      "cost": 165,
+      "currency": "USD"
+    },
+    "monthly_rent_share": {
+      "cost": 1306.25,
+      "currency": "USD"
+    },
+    "effective_tax_rate_percentage": 30.38,
+    "cost_of_living_city_index": 811.09
+  },
+  {
+    "country": "United States",
+    "city": "Dallas",
+    "oat_latte": {
+      "cost": 6.7,
+      "currency": "USD"
+    },
+    "nice_dinner": {
+      "cost": 93,
+      "currency": "USD"
+    },
+    "lime_bike": {
+      "cost": 4.75,
+      "currency": "USD",
+      "name_of_equivalent": "Lime scooter"
+    },
+    "metro_ride": {
+      "cost": 2.9,
+      "currency": "USD",
+      "name_of_equivalent": "DART ride"
+    },
+    "phv_ride": {
+      "cost": 38.75,
+      "currency": "USD"
+    },
+    "food_delivery": {
+      "cost": 25,
+      "currency": "USD"
+    },
+    "music_subscription": {
+      "cost": 11.69,
+      "currency": "USD"
+    },
+    "gym": {
+      "cost": 134,
+      "currency": "USD"
+    },
+    "monthly_rent_share": {
+      "cost": 1125,
+      "currency": "USD"
+    },
+    "effective_tax_rate_percentage": 27.31,
+    "cost_of_living_city_index": 697.27
+  },
+  {
+    "country": "United States",
+    "city": "Denver",
+    "oat_latte": {
+      "cost": 6.7,
+      "currency": "USD"
+    },
+    "nice_dinner": {
+      "cost": 93,
+      "currency": "USD"
+    },
+    "lime_bike": {
+      "cost": 5.15,
+      "currency": "USD"
+    },
+    "metro_ride": {
+      "cost": 3.34,
+      "currency": "USD",
+      "name_of_equivalent": "RTD light rail / bus"
+    },
+    "phv_ride": {
+      "cost": 41.14,
+      "currency": "USD"
+    },
+    "food_delivery": {
+      "cost": 30.35,
+      "currency": "USD"
+    },
+    "music_subscription": {
+      "cost": 12.49,
+      "currency": "USD"
+    },
+    "gym": {
+      "cost": 141.5,
+      "currency": "USD"
+    },
+    "monthly_rent_share": {
+      "cost": 1131.25,
+      "currency": "USD"
+    },
+    "effective_tax_rate_percentage": 30.64,
+    "cost_of_living_city_index": 701.65
+  },
+  {
+    "country": "United States",
+    "city": "Houston",
+    "oat_latte": {
+      "cost": 6.7,
+      "currency": "USD"
+    },
+    "nice_dinner": {
+      "cost": 93,
+      "currency": "USD"
+    },
+    "lime_bike": {
+      "cost": 4.5,
+      "currency": "USD",
+      "name_of_equivalent": "Lime scooter"
+    },
+    "metro_ride": {
+      "cost": 1.51,
+      "currency": "USD",
+      "name_of_equivalent": "METRO bus/rail"
+    },
+    "phv_ride": {
+      "cost": 40,
+      "currency": "USD"
+    },
+    "food_delivery": {
+      "cost": 28.25,
+      "currency": "USD"
+    },
+    "music_subscription": {
+      "cost": 12.04,
+      "currency": "USD"
+    },
+    "gym": {
+      "cost": 137,
+      "currency": "USD"
+    },
+    "monthly_rent_share": {
+      "cost": 1100,
+      "currency": "USD"
+    },
+    "effective_tax_rate_percentage": 27,
+    "cost_of_living_city_index": 682.52
+  },
+  {
+    "country": "United States",
+    "city": "Los Angeles",
+    "oat_latte": {
+      "cost": 7.45,
+      "currency": "USD"
+    },
+    "nice_dinner": {
+      "cost": 114,
+      "currency": "USD"
+    },
+    "lime_bike": {
+      "cost": 4.75,
+      "currency": "USD"
+    },
+    "metro_ride": {
+      "cost": 2.05,
+      "currency": "USD"
+    },
+    "phv_ride": {
+      "cost": 46,
+      "currency": "USD"
+    },
+    "food_delivery": {
+      "cost": 30.8,
+      "currency": "USD"
+    },
+    "music_subscription": {
+      "cost": 12.64,
+      "currency": "USD"
+    },
+    "gym": {
+      "cost": 199,
+      "currency": "USD"
+    },
+    "monthly_rent_share": {
+      "cost": 1690,
+      "currency": "USD"
+    },
+    "effective_tax_rate_percentage": 35.42,
+    "cost_of_living_city_index": 1042.5
+  },
+  {
+    "country": "United States",
+    "city": "Miami",
+    "oat_latte": {
+      "cost": 6.7,
+      "currency": "USD"
+    },
+    "nice_dinner": {
+      "cost": 104,
+      "currency": "USD"
+    },
+    "lime_bike": {
+      "cost": 4.5,
+      "currency": "USD"
+    },
+    "metro_ride": {
+      "cost": 2.42,
+      "currency": "USD",
+      "name_of_equivalent": "Metrorail ride"
+    },
+    "phv_ride": {
+      "cost": 43,
+      "currency": "USD"
+    },
+    "food_delivery": {
+      "cost": 29.15,
+      "currency": "USD"
+    },
+    "music_subscription": {
+      "cost": 11.99,
+      "currency": "USD"
+    },
+    "gym": {
+      "cost": 197.5,
+      "currency": "USD"
+    },
+    "monthly_rent_share": {
+      "cost": 1616.25,
+      "currency": "USD"
+    },
+    "effective_tax_rate_percentage": 27.31,
+    "cost_of_living_city_index": 996.49
+  },
+  {
+    "country": "United States",
+    "city": "New York",
+    "oat_latte": {
+      "cost": 7.45,
+      "currency": "USD"
+    },
+    "nice_dinner": {
+      "cost": 130,
+      "currency": "USD"
+    },
+    "lime_bike": {
+      "cost": 5.08,
+      "currency": "USD",
+      "name_of_equivalent": "Citi Bike"
+    },
+    "metro_ride": {
+      "cost": 2.9,
+      "currency": "USD"
+    },
+    "phv_ride": {
+      "cost": 47,
+      "currency": "USD"
+    },
+    "food_delivery": {
+      "cost": 37,
+      "currency": "USD"
+    },
+    "music_subscription": {
+      "cost": 12.94,
+      "currency": "USD"
+    },
+    "gym": {
+      "cost": 212,
+      "currency": "USD"
+    },
+    "monthly_rent_share": {
+      "cost": 2175,
+      "currency": "USD"
+    },
+    "effective_tax_rate_percentage": 36.8,
+    "cost_of_living_city_index": 1336.74
+  },
+  {
+    "country": "United States",
+    "city": "Philadelphia",
+    "oat_latte": {
+      "cost": 6.7,
+      "currency": "USD"
+    },
+    "nice_dinner": {
+      "cost": 95.25,
+      "currency": "USD"
+    },
+    "lime_bike": {
+      "cost": 4.4,
+      "currency": "USD",
+      "name_of_equivalent": "Indego bike"
+    },
+    "metro_ride": {
+      "cost": 2.2,
+      "currency": "USD",
+      "name_of_equivalent": "SEPTA subway"
+    },
+    "phv_ride": {
+      "cost": 37.4,
+      "currency": "USD"
+    },
+    "food_delivery": {
+      "cost": 27.2,
+      "currency": "USD"
+    },
+    "music_subscription": {
+      "cost": 12.19,
+      "currency": "USD"
+    },
+    "gym": {
+      "cost": 125,
+      "currency": "USD"
+    },
+    "monthly_rent_share": {
+      "cost": 1140,
+      "currency": "USD"
+    },
+    "effective_tax_rate_percentage": 33.26,
+    "cost_of_living_city_index": 706.27
+  },
+  {
+    "country": "United States",
+    "city": "San Francisco",
+    "oat_latte": {
+      "cost": 7.5,
+      "currency": "USD"
+    },
+    "nice_dinner": {
+      "cost": 116.25,
+      "currency": "USD"
+    },
+    "lime_bike": {
+      "cost": 4.5,
+      "currency": "USD"
+    },
+    "metro_ride": {
+      "cost": 3.85,
+      "currency": "USD",
+      "name_of_equivalent": "BART / Muni"
+    },
+    "phv_ride": {
+      "cost": 45,
+      "currency": "USD"
+    },
+    "food_delivery": {
+      "cost": 36,
+      "currency": "USD"
+    },
+    "music_subscription": {
+      "cost": 11.84,
+      "currency": "USD"
+    },
+    "gym": {
+      "cost": 197,
+      "currency": "USD"
+    },
+    "monthly_rent_share": {
+      "cost": 1937.5,
+      "currency": "USD"
+    },
+    "effective_tax_rate_percentage": 37.14,
+    "cost_of_living_city_index": 1191.47
+  },
+  {
+    "country": "United States",
+    "city": "San Jose, CA",
+    "oat_latte": {
+      "cost": 6.7,
+      "currency": "USD"
+    },
+    "nice_dinner": {
+      "cost": 93,
+      "currency": "USD"
+    },
+    "lime_bike": {
+      "cost": 4.5,
+      "currency": "USD"
+    },
+    "metro_ride": {
+      "cost": 3.25,
+      "currency": "USD",
+      "name_of_equivalent": "VTA Light Rail ride"
+    },
+    "phv_ride": {
+      "cost": 41.5,
+      "currency": "USD"
+    },
+    "food_delivery": {
+      "cost": 28.25,
+      "currency": "USD"
+    },
+    "music_subscription": {
+      "cost": 12.49,
+      "currency": "USD"
+    },
+    "gym": {
+      "cost": 138,
+      "currency": "USD"
+    },
+    "monthly_rent_share": {
+      "cost": 1648.75,
+      "currency": "USD"
+    },
+    "effective_tax_rate_percentage": 36.9,
+    "cost_of_living_city_index": 1011.91
+  },
+  {
+    "country": "United States",
+    "city": "Seattle",
+    "oat_latte": {
+      "cost": 6.7,
+      "currency": "USD"
+    },
+    "nice_dinner": {
+      "cost": 93,
+      "currency": "USD"
+    },
+    "lime_bike": {
+      "cost": 4.5,
+      "currency": "USD"
+    },
+    "metro_ride": {
+      "cost": 2.75,
+      "currency": "USD"
+    },
+    "phv_ride": {
+      "cost": 41.5,
+      "currency": "USD"
+    },
+    "food_delivery": {
+      "cost": 30.8,
+      "currency": "USD"
+    },
+    "music_subscription": {
+      "cost": 12.04,
+      "currency": "USD"
+    },
+    "gym": {
+      "cost": 146,
+      "currency": "USD"
+    },
+    "monthly_rent_share": {
+      "cost": 1368.75,
+      "currency": "USD"
+    },
+    "effective_tax_rate_percentage": 27.78,
+    "cost_of_living_city_index": 844.31
+  },
+  {
+    "country": "United States",
+    "city": "Washington, DC",
+    "oat_latte": {
+      "cost": 6.7,
+      "currency": "USD"
+    },
+    "nice_dinner": {
+      "cost": 116.25,
+      "currency": "USD"
+    },
+    "lime_bike": {
+      "cost": 4.5,
+      "currency": "USD"
+    },
+    "metro_ride": {
+      "cost": 3.38,
+      "currency": "USD"
+    },
+    "phv_ride": {
+      "cost": 38.75,
+      "currency": "USD"
+    },
+    "food_delivery": {
+      "cost": 30.5,
+      "currency": "USD"
+    },
+    "music_subscription": {
+      "cost": 12.34,
+      "currency": "USD"
+    },
+    "gym": {
+      "cost": 197.5,
+      "currency": "USD"
+    },
+    "monthly_rent_share": {
+      "cost": 1562.5,
+      "currency": "USD"
+    },
+    "effective_tax_rate_percentage": 34.04,
+    "cost_of_living_city_index": 966.04
+  },
+  {
+    "country": "Vietnam",
+    "city": "Hanoi",
+    "oat_latte": {
+      "cost": 84500,
+      "currency": "VND"
+    },
+    "nice_dinner": {
+      "cost": 540000,
+      "currency": "VND"
+    },
+    "lime_bike": {
+      "cost": 25000,
+      "currency": "VND",
+      "name_of_equivalent": "Grab Bike"
+    },
+    "metro_ride": {
+      "cost": 12900,
+      "currency": "VND"
+    },
+    "phv_ride": {
+      "cost": 146000,
+      "currency": "VND",
+      "name_of_equivalent": "Grab Car"
+    },
+    "food_delivery": {
+      "cost": 160000,
+      "currency": "VND",
+      "name_of_equivalent": "GrabFood"
+    },
+    "music_subscription": {
+      "cost": 59000,
+      "currency": "VND"
+    },
+    "gym": {
+      "cost": 1580000,
+      "currency": "VND"
+    },
+    "monthly_rent_share": {
+      "cost": 8812500,
+      "currency": "VND"
+    },
+    "effective_tax_rate_percentage": 29.6,
+    "cost_of_living_city_index": 5449022
+  },
+  {
+    "country": "Vietnam",
+    "city": "Ho Chi Minh City",
+    "oat_latte": {
+      "cost": 83000,
+      "currency": "VND"
+    },
+    "nice_dinner": {
+      "cost": 885000,
+      "currency": "VND"
+    },
+    "lime_bike": {
+      "cost": 24000,
+      "currency": "VND",
+      "name_of_equivalent": "Grab motorbike ride"
+    },
+    "metro_ride": {
+      "cost": 11500,
+      "currency": "VND"
+    },
+    "phv_ride": {
+      "cost": 182500,
+      "currency": "VND",
+      "name_of_equivalent": "Grab car ride"
+    },
+    "food_delivery": {
+      "cost": 175000,
+      "currency": "VND",
+      "name_of_equivalent": "Premium fast food meal via GrabFood"
+    },
+    "music_subscription": {
+      "cost": 59000,
+      "currency": "VND"
+    },
+    "gym": {
+      "cost": 1905000,
+      "currency": "VND"
+    },
+    "monthly_rent_share": {
+      "cost": 10725000,
+      "currency": "VND"
+    },
+    "effective_tax_rate_percentage": 31.43,
+    "cost_of_living_city_index": 6662820
+  }
+]

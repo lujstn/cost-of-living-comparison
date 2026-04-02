@@ -1,2 +1,7 @@
-.claude
 .env
+.DS_Store
+.claude
+node_modules/
+output/marshalled/
+output/raw/
+
