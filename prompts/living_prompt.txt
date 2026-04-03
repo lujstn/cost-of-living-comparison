@@ -8,6 +8,7 @@ Context: I am a 27-year-old, young, fun L4 Software Engineer working for Google 
 6. The cost of an average premium fast food meal through a delivery service (Uber Eats equivalent)
 7. The cost of a Spotify Premium subscription equivalent [one-off]
 8. The cost of a middle-upper tier gym membership equivalent [one-off]
+9. What percentage of monthly net salary is typically spent on rent (for a flatshare, my share) for someone of my profile in this city? Return as a decimal between 0 and 1 (e.g. 0.35 for 35%).
 
 
 Task: I'd like you to provide the typical range of values for each of these, with a range I can pretty reasonably expect in this city. I'd also like you to imagine I did this repeatedly for a month, and give me a `weighting` value between 0 (cheapest) and 1 (most expensive) of where the expected cost typically falls on this scale for someone of my profile here. For items marked as one-offs, the weighting represents where in the price range you'd typically land. Normalise outputs to single instances (i.e. one meal) in the local currency. If the item is not a typically expected item in this city (e.g. "oat latte" is not normal), you may substitute it with a similar item that serves a similar purpose (e.g. "Irani chai"). If doing this, you MUST return the "name_of_equivalent" field containing only the name of the item you have substituted - do NOT provide extra detail.
@@ -70,6 +71,7 @@ JSON Output Schema:
     "currency": ISOCurrencyCode,
     "weighting": number,
     "name_of_equivalent": Optional<string>
-  }
+  },
+  "rent_proportion_of_salary": number // decimal between 0 and 1
 }
 ```

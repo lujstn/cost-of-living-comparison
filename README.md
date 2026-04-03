@@ -22,10 +22,12 @@ The theory is that these benchmarks are correlated. If rent is cheaper, your oat
 
 The benchmarks are chosen to map to real moments in your week:
 
-- **Rent** is the big one, at roughly **60% of the index**. This means sharing a nice two-bed flat (not a shoebox, not a mansion) in a good area.
+- **Rent** is the big one. Each city’s rent weight is set dynamically using the LLM’s estimate of what share of net salary goes to rent in that city.
 - **Coffee** and a **nice dinner** capture the daily and weekly rituals.
 - **Getting across town** covers the full spread: metro, bike, Uber home late.
 - **The niceties** are the things that round out the lifestyle: Spotify, ordering food in, going to the gym.
+
+The index is frequency-based: each item’s monthly cost (unit cost × typical frequency) is summed, with rent weighted by its estimated proportion of salary. This means the index naturally adapts to each city’s cost structure rather than applying a fixed global weighting.
 
 The goal isn’t to build a budget planner, it’s to give a feel for what life costs in a given city.
 
@@ -57,9 +59,9 @@ For each city, Claude estimates:
 - Tier 2: trendy central districts (e.g. Shoreditch)
 - Tier 3: further out but still trendy (e.g. Dalston)
 
-Plus a salary estimate (gross + net) for the same persona, with local tax treatment applied.
-
 Everything is in **local currency**. The index doesn't normalise across currencies (use a library like Frankfurter in your end project for this!).
+
+Claude also estimates the percentage of this persona's salary that likely goes towards rent in each city (e.g. "45%") which is used to weight the index. This helps us balance out the fact that rent is generally the biggest driver of cost of living in Western countries but more variable in LEDCs.
 
 ## How it works
 
@@ -70,7 +72,7 @@ Everything is in **local currency**. The index doesn't normalise across currenci
 5. Failed validations get two retry passes:
    - **Pass 1**: re-ask with thinking + a stern "ATTEMPT 3/3" diagnostic prompt
    - **Pass 2**: forced tool_choice with no thinking (schema-enforced, guaranteed structure)
-6. Calculates a weighted cost-of-living index per city
+6. Calculates a frequency-based cost-of-living index per city, dynamically weighted by rent proportion
 7. Writes raw, marshalled, and final outputs to `output/`
 
 ## Running it
@@ -125,7 +127,8 @@ Each city in the final output looks like:
   "nice_dinner": { "cost": 66, "currency": "EUR" },
   "monthly_rent_share": { "cost": 905, "currency": "EUR" },
   "effective_tax_rate_percentage": 42.4,
-  "cost_of_living_city_index": 558.82
+  "rent_proportion_of_salary": 0.38,
+  "cost_of_living_index": 1412.7
 }
 ```
 

@@ -29,21 +29,20 @@ function recalcIndex(
 ): number {
   const musicCost = musicCostForIndex ?? city.music_subscription.cost;
 
-  const tripGroup =
-    0.3 * city.lime_bike.cost +
-    0.3 * city.metro_ride.cost +
-    0.3 * city.phv_ride.cost;
+  const luxMonthly =
+    15 * city.oat_latte.cost +
+    4 * city.nice_dinner.cost +
+    15 * city.lime_bike.cost +
+    30 * city.metro_ride.cost +
+    4 * city.phv_ride.cost +
+    8 * city.food_delivery.cost +
+    1 * musicCost +
+    1 * city.gym.cost;
 
-  const nicetiesGroup =
-    0.2 * musicCost + 0.4 * city.gym.cost + 0.4 * city.food_delivery.cost;
+  const rentShare = city.monthly_rent_share.cost;
+  const rentProp = city.rent_proportion_of_salary;
 
-  return round2(
-    0.6 * city.monthly_rent_share.cost +
-      0.05 * city.oat_latte.cost +
-      0.15 * city.nice_dinner.cost +
-      0.1 * tripGroup +
-      0.1 * nicetiesGroup,
-  );
+  return round2(rentProp * rentShare + (1 - rentProp) * luxMonthly);
 }
 
 async function fetchFxRate(base: string, quote: string): Promise<number> {
@@ -157,7 +156,7 @@ export async function normaliseSubscriptions() {
     const indexChanges: string[] = [];
 
     for (const city of countryCities) {
-      const oldIndex = city.cost_of_living_city_index;
+      const oldIndex = city.cost_of_living_index;
 
       city.music_subscription.cost = newCost;
       city.music_subscription.currency = newCurrency;
@@ -169,7 +168,7 @@ export async function normaliseSubscriptions() {
 
       const newIndex = recalcIndex(city, musicCostForIndex);
       const diff = round2(newIndex - oldIndex);
-      city.cost_of_living_city_index = newIndex;
+      city.cost_of_living_index = newIndex;
 
       const sign = diff > 0 ? "+" : "";
       indexChanges.push(`${city.city} ${sign}${diff}`);

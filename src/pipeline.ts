@@ -82,7 +82,13 @@ function getLivingIssues(parsed: unknown): string[] {
   if (typeof parsed !== "object" || parsed === null)
     return ["Response is not an object"];
   const o = parsed as Record<string, unknown>;
-  return LIVING_ITEMS.flatMap((key) => getItemIssues(key, o[key]));
+  const issues = LIVING_ITEMS.flatMap((key) => getItemIssues(key, o[key]));
+  if (typeof o.rent_proportion_of_salary !== "number") {
+    console.warn(
+      "  ⚠ rent_proportion_of_salary missing or not a number (non-fatal)",
+    );
+  }
+  return issues;
 }
 
 function getRentalIssues(parsed: unknown): string[] {
@@ -152,9 +158,12 @@ const LIVING_TOOL = {
   input_schema: {
     type: "object" as const,
     required: [...LIVING_ITEMS],
-    properties: Object.fromEntries(
-      LIVING_ITEMS.map((key) => [key, LIVING_ITEM_SCHEMA]),
-    ),
+    properties: {
+      ...Object.fromEntries(
+        LIVING_ITEMS.map((key) => [key, LIVING_ITEM_SCHEMA]),
+      ),
+      rent_proportion_of_salary: { type: "number" as const },
+    },
   },
 };
 
@@ -186,6 +195,19 @@ const RENTAL_TOOL = {
   },
 };
 
+function luxuryMonthly(costs: Record<LivingItemKey, CostItem>): number {
+  return (
+    15 * costs.oat_latte.cost +
+    4 * costs.nice_dinner.cost +
+    15 * costs.lime_bike.cost +
+    30 * costs.metro_ride.cost +
+    4 * costs.phv_ride.cost +
+    8 * costs.food_delivery.cost +
+    1 * costs.music_subscription.cost +
+    1 * costs.gym.cost
+  );
+}
+
 // ─── Main Pipeline ──────────────────────────────────────────────────────────
 
 async function main() {
@@ -196,11 +218,11 @@ async function main() {
     fs.readFileSync(path.join(ROOT, "input/cities.json"), "utf-8"),
   );
   const livingTemplate = fs.readFileSync(
-    path.join(ROOT, "living_prompt.txt"),
+    path.join(ROOT, "prompts/living_prompt.txt"),
     "utf-8",
   );
   const rentalTemplate = fs.readFileSync(
-    path.join(ROOT, "rental_prompt.txt"),
+    path.join(ROOT, "prompts/rental_prompt.txt"),
     "utf-8",
   );
 
@@ -610,23 +632,13 @@ YOU MUST ENSURE:
       JSON.stringify(marshalled, null, 2),
     );
 
-    // Step 9: Calculate Cost of Living City Index
-    const tripGroup =
-      0.3 * costItems.lime_bike.cost +
-      0.3 * costItems.metro_ride.cost +
-      0.3 * costItems.phv_ride.cost;
-
-    const nicetiesGroup =
-      0.2 * costItems.music_subscription.cost +
-      0.4 * costItems.gym.cost +
-      0.4 * costItems.food_delivery.cost;
-
-    const index =
-      0.6 * marshalled.monthly_rent_share.cost +
-      0.05 * costItems.oat_latte.cost +
-      0.15 * costItems.nice_dinner.cost +
-      0.1 * tripGroup +
-      0.1 * nicetiesGroup;
+    // Step 9: Calculate Cost of Living Index
+    // Formula: rentProp × rent + (1 - rentProp) × luxuryMonthly
+    // where rentProp is the LLM's estimate of what % of salary goes to rent
+    const luxMonthly = luxuryMonthly(costItems);
+    const rentShare = marshalled.monthly_rent_share.cost;
+    const rentProp = living.rent_proportion_of_salary ?? 0.2; // fallback for old data
+    const colIndex = round2(rentProp * rentShare + (1 - rentProp) * luxMonthly);
 
     // Step 10: Build final result
     finalResults.push({
@@ -642,7 +654,8 @@ YOU MUST ENSURE:
       gym: costItems.gym,
       monthly_rent_share: marshalled.monthly_rent_share,
       effective_tax_rate_percentage: marshalled.effective_tax_rate_percentage,
-      cost_of_living_city_index: round2(index),
+      rent_proportion_of_salary: rentProp,
+      cost_of_living_index: colIndex,
     });
   }
 

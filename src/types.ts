@@ -29,6 +29,7 @@ export interface LivingResponse {
   food_delivery: LivingItem;
   music_subscription: LivingItem;
   gym: LivingItem;
+  rent_proportion_of_salary?: number;
 }
 
 export interface RentalTier {
@@ -78,7 +79,8 @@ export interface FinalCityResult {
   gym: CostItem;
   monthly_rent_share: RentItem;
   effective_tax_rate_percentage: number;
-  cost_of_living_city_index: number;
+  rent_proportion_of_salary: number;
+  cost_of_living_index: number;
 }
 
 export const LIVING_ITEMS = [
